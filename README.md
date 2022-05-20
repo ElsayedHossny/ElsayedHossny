@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elasyed Hossny</h1>
 <h3 align="center">A passionate Control Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **PLC**
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Front-end Development**
 
