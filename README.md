@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D5612AQGoqi6YqfTGfQ/article-cover_image-shrink_600_2000/0/1684625917504?e=2147483647&v=beta&t=mE9JCUg4u0IU_kLC4MuLIfikdEIadhB6PDdYzJ4R2uA" alt="cover" height ="300" width = "1300"/>
-<h1 align="center">Hi there, I'm Elsayed👋</h1>
-<h3 align="center">I'm Software Embedded Engineer💻 & Front-End developer💻</h3>
+<h3 align="center">Hi there, I'm Elsayed👋</h3>
+<h2 align="center">I'm Software Embedded Engineer💻 & Front-End developer💻</h2>
 
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnb7U8285ohbIQt7HvpChBxw0qJBvS3P1n6g&s">
 
