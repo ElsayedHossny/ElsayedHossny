@@ -2,7 +2,7 @@
 <h2 align="center" font-size:"20px">I'm Software Embedded Engineer & Front-End Developer💻</h2>
 
 - 🌱 I’m currently learning **Embedded systems & Front_end_developer**
-- 💬 Ask me about **C/C++, MCU Interfacing, Electronics, PCB Design**
+- 💬 Ask me about **C/C++, MCU Interfacing, Web , PCB Design**
 <h5 align="left">Languages and Tools:</h5>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="/Microchip studio.avif" ></code>
