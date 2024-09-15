@@ -24,11 +24,10 @@
 
 <h5 align="left">Contact me:</h5>
 <p align="left">
-<a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manar-hamada-42bb0921a" height="30" width="40" /></a></p>
- <a href="elsayedhossny909@gmail.com">
+<a href="elsayedhossny909@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-   <a href="elsayedhossny909@gmail.com">
+   <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
