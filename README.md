@@ -9,4 +9,7 @@
 
 - 💬 Ask me about **C/C++, MCU Interfacing, Electronics, PCB Design**
 
-- 📫 How to reach me **elsayedhossny909@gmail.com**
+<h5 align="left">Contact me:</h5>
+<p align="left">
+<a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manar-hamada-42bb0921a" height="30" width="40" /></a></p>
+
