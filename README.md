@@ -32,4 +32,7 @@
    <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+   <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
+    <img src="https://skillicons.dev/icons?i=facebook"/>
+  </a>
 
