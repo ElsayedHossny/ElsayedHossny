@@ -1,4 +1,4 @@
-<img src="/Elsayed Hossny.png" alt="cover" height ="280" width = "1300"/>
+<img src="/Elsayed Hossny.png" alt="cover" height ="40" width = "80"/>
 <h3 align="center">Hi there, I'm Elsayed <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/></h3>
 <h2 align="center">I'm Software Embedded Engineer💻 & Front-End developer💻</h2>
 
