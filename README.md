@@ -1,4 +1,4 @@
-<img src="/name.svg" alt="cover" width = "800"/>
+<img src="/name.svg" alt="cover"/>
 <h2 align="center" font-size:"20px">I'm Software Embedded Engineer💻 & Front-End developer💻</h2>
 
   
