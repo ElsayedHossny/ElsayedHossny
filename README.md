@@ -28,4 +28,7 @@
  <a href="elsayedhossny909@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+   <a href="elsayedhossny909@gmail.com">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
 
