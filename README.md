@@ -1,4 +1,4 @@
-<img src="https://www.4electron.com/wordpress/wp-content/uploads/2021/04/electronic-avr.jpg" alt="cover" height ="400" width = "1200"/>
+<img src="https://media.licdn.com/dms/image/D5612AQGoqi6YqfTGfQ/article-cover_image-shrink_600_2000/0/1684625917504?e=2147483647&v=beta&t=mE9JCUg4u0IU_kLC4MuLIfikdEIadhB6PDdYzJ4R2uA" alt="cover" height ="400" width = "1200"/>
 
 <h1 align="center">Hi 👋, I'm Elsayed Hossny</h1>
 <h3 align="center">Communication & Computer Engineering student</h3>
