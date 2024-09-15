@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="300" src="/elsayed.svg">
+<img align="right" alt="Coding" width="800" height="40" src="/elsayed.svg">
 
 
 <h2 align="center" font-size:"20px">I'm Software Embedded Engineer💻 & Front-End developer💻</h2>
