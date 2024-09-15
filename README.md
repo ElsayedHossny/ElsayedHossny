@@ -1,11 +1,7 @@
 <img align="right" alt="Coding" width="1000" height="80" src="/elsayed.svg">
-
-
 <h2 align="center" font-size:"20px">I'm Software Embedded Engineer & Front-End Developer💻</h2>
-<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnb7U8285ohbIQt7HvpChBxw0qJBvS3P1n6g&s">
 
 - 🌱 I’m currently learning **Embedded systems & Front_end_developer**
-
 - 💬 Ask me about **C/C++, MCU Interfacing, Electronics, PCB Design**
 <h5 align="left">Languages and Tools:</h5>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
