@@ -1,7 +1,7 @@
-<img src="/name.svg" alt="cover"/>
-<h2 align="center" font-size:"20px">I'm Software Embedded Engineer💻 & Front-End developer💻</h2>
+<img align="right" alt="Coding" width="300" src="/namesvg>
 
-  
+
+<h2 align="center" font-size:"20px">I'm Software Embedded Engineer💻 & Front-End developer💻</h2>
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnb7U8285ohbIQt7HvpChBxw0qJBvS3P1n6g&s">
 
 - 🌱 I’m currently learning **Embedded systems & Front_end_developer**
