@@ -1,5 +1,4 @@
-<h3 align="center">Hi there, I'm <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/></h3>
-<p align="center"><img src="/name.svg" alt="cover" height ="60" width = "500"/></p>
+<h3 align="center">Hi there  <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/>, I'm <img src="/name.svg" alt="cover" height ="60" width = "500"/></h3>
 <h2 align="center" font-size:"20px">I'm Software Embedded Engineer💻 & Front-End developer💻</h2>
 
   
