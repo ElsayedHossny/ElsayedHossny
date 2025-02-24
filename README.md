@@ -34,11 +34,11 @@
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
-    <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
+  <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-    <a href="elsayedhossny909@gmail.com">
+  <a href="elsayedhossny909@gmail.com">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" alt="Gmail" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
