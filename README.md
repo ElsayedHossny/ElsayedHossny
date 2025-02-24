@@ -10,7 +10,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff">&nbsp;</div> 
-<div align="center"> </div> 
+<div align="center">
+</div> 
 <div align="center">  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="/Microchip studio.avif" ></code>
