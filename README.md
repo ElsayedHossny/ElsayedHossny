@@ -10,7 +10,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff">&nbsp;</div> 
-                                   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<h2 align="center">🛠 Tools</h2>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="/Microchip studio.avif" ></code>
 <code><img height="20" src="/codeblock.svg" ></code>
 <code><img height="20" src="/proteus.webp" ></code>
@@ -20,7 +21,7 @@
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=dark" alt="Top Languages Card"></div>
