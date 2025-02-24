@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Elsayed👋</h1>
+<img align="right" alt="Coding" width="1000" height="80" src="/elsayed.svg">
+<h2 align="center" font-size:"20px">I'm Software Embedded Engineer & Front-End Developer💻</h2>
+
 <div align="center"><ul><li><h2 align="center" font-size:"20px"="">I'm Software Engineer💻</h2></li><li>🌱 I’m currently learning <strong>Embedded systems& Software Testing & Front end developer</strong></li><li>💬 Ask me about <strong>C/C++, MCU Interfacing, communication protocols</strong></li></ul></div>
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
@@ -15,8 +17,7 @@
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/" target="_blank">Elsayed</a></p>
 
-<img align="right" alt="Coding" width="1000" height="80" src="/elsayed.svg">
-<h2 align="center" font-size:"20px">I'm Software Embedded Engineer & Front-End Developer💻</h2>
+
 
 - 🌱 I’m currently learning **Embedded systems & Front_end_developer**
 - 💬 Ask me about **C/C++, MCU Interfacing, Web , PCB Design**
