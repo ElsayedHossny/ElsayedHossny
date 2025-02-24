@@ -24,7 +24,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;</div>
 
-<h2 \n align="center">📫 Connect with me</h2>
+<h2 align="center">📫 Connect with me</h2>
 <div align="center">  
   <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="LinkedIn"
@@ -42,6 +42,5 @@ style="vertical-align:top; margin:4px">
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=dark" alt="Top Languages Card"></div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElsayedHossny&show_icons=true&locale=en&layout=compact" alt="Elsayed" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&" alt="the7ag" /></p>
 
