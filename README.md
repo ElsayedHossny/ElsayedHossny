@@ -24,7 +24,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;</div>
 
-<h2 align="center">📫 Connect with me</h2>
+<h2 \n align="center">📫 Connect with me</h2>
 <div align="center">  
   <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="LinkedIn"
