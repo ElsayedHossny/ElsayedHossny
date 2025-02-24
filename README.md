@@ -33,8 +33,8 @@
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="LinkedIn"
 style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="elsayedhossny909@gmail.com">
+  https://mail.google.com/mail/u/1/#sent
+  <a href="mailto:elsayedhossny909@gmail.com">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" alt="Gmail" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
