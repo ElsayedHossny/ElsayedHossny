@@ -29,7 +29,7 @@
 
 <h2 align="center">📫 Connect with me</h2>
   <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="LinkedIn">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="elsayedhossny909@gmail.com">
