@@ -34,5 +34,10 @@
    <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the7ag&show_icons=true&locale=en&layout=compact" alt="the7ag" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the7ag&show_icons=true&locale=en" alt="the7ag" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the7ag&" alt="the7ag" /></p>
 
