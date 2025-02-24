@@ -26,21 +26,22 @@
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=dark" alt="Top Languages Card"></div>
+
 <h2 align="center">📫 Connect with me</h2>
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/" target="_blank">Elsayed</a></p>
-
-
-
-- 🌱 I’m currently learning **Embedded systems & Front_end_developer**
-- 💬 Ask me about **C/C++, MCU Interfacing, Web , PCB Design**
-
-
-
 
 <h5 align="left">PS:</h5>
   <a href="https://www.hackerrank.com/profile/elsayedhossny909">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
+
+    <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+    <a href="elsayedhossny909@gmail.com">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" alt="Gmail" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+
 
 <h5 align="left">Contact me:</h5>
 <p align="left">
@@ -51,6 +52,17 @@
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/" target="_blank">Elsayed</a></p>
+
+
+
+- 🌱 I’m currently learning **Embedded systems & Front_end_developer**
+- 💬 Ask me about **C/C++, MCU Interfacing, Web , PCB Design**
+
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElsayedHossny&show_icons=true&locale=en&layout=compact" alt="Elsayed" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&" alt="the7ag" /></p>
 
