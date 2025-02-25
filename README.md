@@ -1,5 +1,4 @@
 <img align="right" alt="Coding" width="1000" height="80" src="/elsayed.svg">
-
 <div align="center"><ul><li><h2 align="center" font-size:"20px"="">I'm Software Engineer & Developer 💻 </h2></li><li>🌱 I’m currently learning <strong>Embedded systems& Software Testing & Front end developer</strong></li><li>💬 Ask me about <strong>C/C++, MCU Interfacing, communication protocols</strong></li></ul></div>
 <h2 align="center">🛠 Languages and Tools</h2>
 <div align="center">
