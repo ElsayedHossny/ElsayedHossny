@@ -13,18 +13,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** building toward **Full Stack Engineering**, with an unconventional background that spans web development, embedded systems, and real hardware projects. I don't just follow one path — I cross disciplines, and that's my edge.
+I'm a **Software Engineer** actively seeking my first role as a **Frontend Engineer**, while building toward Full Stack — with an unconventional background that spans web development, embedded systems, and real hardware projects. I don't just follow one path — I cross disciplines, and that's my edge.
 
-My journey started in **2022** teaching myself frontend from scratch on YouTube. I then shifted into **Embedded Systems**, completing a professional diploma under a **Senior Engineer at Valeo** — where I worked deep into AVR microcontrollers, communication protocols, and built the embedded pipeline for my **AI graduation project**. After graduating, I returned to web, trained at **ITI**, joined a **MERN stack program at NIT**, and I'm now advancing my backend skills with **Node.js at Route Academy** to close the loop on Full Stack.
+I hold a **B.Sc. in Communications & Computer Engineering** from **Banha Faculty of Engineering**. My journey started in **2022** teaching myself frontend from scratch on YouTube. I then shifted into **Embedded Systems**, completing a professional diploma under a **Senior Engineer at Valeo** — where I worked deep into AVR microcontrollers, communication protocols, and built the embedded pipeline for my **AI graduation project**. After graduating, I returned to web, trained at **ITI**, joined a **MERN stack program at NTI**, and I'm now advancing my backend skills with **Node.js at Route Academy** to close the loop on Full Stack.
 
 Every pivot was intentional. Every layer I learned made the next one deeper.
 
 ```text
+💼 Now         →  Open to Frontend Engineer roles (React / Next.js)
 🎯 Goal        →  Full Stack Engineer (React + Node.js)
-🌍 Location    →  Egypt
+🌍 Location    →  Egypt  |  Remote-friendly
 📚 Currently   →  Backend — Node.js · Express · REST APIs (Route Academy)
-💡 Edge        →  Web + Embedded Systems — software meets hardware
-🤝 Open to     →  Full-time roles · Internships · Freelance
+💡 Edge        →  Frontend depth + Embedded Systems — software meets hardware
+🤝 Open to     →  Full-time · Internship · Freelance
 ```
 
 ---
@@ -32,16 +33,13 @@ Every pivot was intentional. Every layer I learned made the next one deeper.
 ## 🗺️ My Engineering Journey
 
 ```
-2022               2023 (mid)           2024               2025 → Now
- │                    │                   │                   │
- ▼                    ▼                   ▼                   ▼
-Frontend           Embedded            Web Return          Full Stack
-Self-taught   →   Diploma @ Valeo  →  ITI Training    →  Node.js @ Route
-(Elzero Web       (AVR · UART ·       (HTML·CSS·JS)      + MERN @ NIT
- Academy)          SPI · I2C)              │
-                       │             Graduation Project
-                       └──────────── AI Pipeline Detection
-                                     (Embedded layer built by me)
+2022            2023 (mid)          2024            2025          2026 → Now
+ │                  │                 │               │               │
+ ▼                  ▼                 ▼               ▼               ▼
+Frontend         Embedded         Web Return      Graduated       Full Stack
+Self-taught  →  Diploma @ Valeo → ITI Training → AI Project  →  NTI (MERN)
+(Elzero Web     (AVR · UART ·    (HTML·CSS·JS)   (Embedded       + Node.js
+ Academy)        SPI · I2C)                       pipeline)        @ Route
 ```
 
 ---
@@ -109,11 +107,13 @@ Self-taught   →   Diploma @ Valeo  →  ITI Training    →  Node.js @ Route
 
 | Year | Program | Focus |
 |------|---------|-------|
+| 2021–2025 | Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
 | 2022 | Self-taught (Elzero Web Academy) | HTML · CSS · JavaScript · Frontend Foundations |
 | 2023 | Embedded Systems Diploma — Eng. Mohammed Abdelbasset *(Valeo)* | AVR · MCU Interfacing · UART · SPI · I2C |
 | 2024 | ITI Training *(1 month)* | Web Design — HTML · CSS · JavaScript |
-| 2024 | NIT *(4 months)* | MERN Stack — MongoDB · Express · React · Node.js |
-| 2025 | Route Academy *(In Progress)* | Backend — Node.js · Express · REST APIs |
+| 2025 | Graduation Project | AI Pipeline Detection — Embedded Systems Layer |
+| 2026 | NTI *(4 months)* | MERN Stack — MongoDB · Express · React · Node.js |
+| 2026 | Route Academy *(In Progress)* | Backend — Node.js · Express · REST APIs |
 
 ---
 
