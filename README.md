@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+React+%2F+Next.js;Full+Stack+in+Progress+%7C+Node.js;Embedded+Systems+Background+%7C+AVR+MCU;Open+to+Work+%7C+Egypt+%7C+Remote+%26+Hybrid" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+React+%2F+Next.js;Full+Stack+in+Progress+%7C+Node.js;Embedded+Systems+Background+%7C+AVR+MCU;Open+to+Work+%7C+Egypt+%7C+Remote" alt="Typing SVG" />
 
 <br/>
 
@@ -9,41 +9,78 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/elsayedhossny909)
 [![Profile Views](https://komarev.com/ghpvc/?username=ElsayedHossny&style=for-the-badge&color=1A73E8)](https://github.com/ElsayedHossny)
 
----
-
-**💼 Open to** Frontend / Full Stack roles &nbsp;·&nbsp; **🌍** Egypt — Remote & Hybrid &nbsp;·&nbsp; **🤝** Full-time · Internship · Freelance
-
-**📚 Learning** Node.js · Express · REST APIs @ Route Academy &nbsp;·&nbsp; **💡 Edge** Frontend depth + Embedded Systems background
-
----
-
-Frontend engineer with an unconventional background — I build polished React/Next.js UIs and have wired AVR microcontrollers in C. Every layer I learned made the next one deeper.
-
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+```text
+💼 Now         →  Open to Frontend / Full Stack roles
+🎯 Goal        →  Full Stack Engineer (React + Node.js)
+🌍 Location    →  Egypt
+📚 Learning    →  Node.js · Express · REST APIs (Route Academy)
+💡 Edge        →  Frontend depth + Embedded Systems background
+🤝 Open to     →  Full-time · Internship · Freelance
+```
+
+Frontend engineer with an unconventional background — I build polished React/Next.js UIs by day and have wired AVR microcontrollers in C by night. Every layer I learned made the next one deeper.
 
 ---
 
 ## 🚀 Projects
 
-<div align="center">
+### 🏠 Real Estate CRM — Next.js Admin Dashboard
+> Full Arabic RTL admin system with property listings, auth, dark mode, and shadcn/ui components.
 
-| Project | Stack | Links |
-|--------|-------|-------|
-| 🏠 **Real Estate CRM** — Next.js Arabic RTL admin dashboard with auth, dark mode & shadcn/ui | `Next.js` `TypeScript` `Tailwind` `shadcn/ui` | [Repo](#) · [Demo](#) |
-| 🛒 **FreshCart** — E-commerce SPA with cart, checkout, auth & real API. Deployed on Vercel | `React` `Redux` `React Query` `Vite` | [Repo](#) · [Demo](#) |
-| 📊 **Admin Dashboard** — E-commerce panel with charts & Zustand state management | `React` `Tailwind` `Zustand` `Recharts` | [Repo](#) |
-| 🤖 **AI Pipeline Detector** — Graduation project: AVR MCU + UART + computer vision layer | `C/C++` `AVR MCU` `UART` `Python` | [Repo](#) |
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-</div>
+**[→ GitHub Repo](#)** &nbsp;·&nbsp; **[→ Live Demo](#)**
+
+---
+
+### 🛒 FreshCart — E-commerce SPA
+> Full e-commerce app with cart, checkout, auth, and real API integration. Deployed on Vercel.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**[→ GitHub Repo](#)** &nbsp;·&nbsp; **[→ Live Demo (Vercel)](#)**
+
+---
+
+### 📊 Admin Dashboard — E-commerce Panel
+> Admin panel with charts, Zustand state management, and Recharts data visualization.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logoColor=white)
+
+**[→ GitHub Repo](#)**
+
+---
+
+### 🤖 AI Pipeline Detector — Graduation Project
+> Embedded pipeline defect detection combining AVR MCU communication with a computer vision layer.
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR_MCU-EE0000?style=flat-square&logo=microchip&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+
+**[→ GitHub Repo](#)**
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-**Frontend**
-
+### 🎨 Frontend — Primary Focus
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -51,15 +88,13 @@ Frontend engineer with an unconventional background — I build polished React/N
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**UI & Styling**
-
+### 🎛 UI & Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**State & Data**
-
+### ⚙️ State Management & Data Fetching
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
@@ -67,31 +102,27 @@ Frontend engineer with an unconventional background — I build polished React/N
 ![Formik](https://img.shields.io/badge/Formik-172B4D?style=flat-square&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
-**Backend** *(In Progress — Route Academy)*
-
+### 🌐 Backend *(In Progress — Route Academy)*
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Embedded Systems**
-
+### 🔌 Embedded Systems
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![AVR MCU](https://img.shields.io/badge/AVR_MCU-EE0000?style=flat-square&logo=microchip&logoColor=white)
 ![UART/SPI/I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-0078D4?style=flat-square&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
 
-**Tools**
-
+### 🛠 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -111,26 +142,20 @@ Frontend engineer with an unconventional background — I build polished React/N
 
 ## 🎓 Education & Training
 
-<div align="center">
-
 | Year | Program | Focus |
 |------|---------|-------|
 | 2021–2025 | Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
-| 2022 | Self-taught — Elzero Web Academy | HTML · CSS · JavaScript |
-| 2023 | Embedded Systems Diploma *(Valeo Engineer)* | AVR · UART · SPI · I2C |
+| 2022 | Self-taught — Elzero Web Academy | HTML · CSS · JavaScript · Frontend Foundations |
+| 2023 | Embedded Systems Diploma — Eng. Mohammed Abdelbasset *(Valeo)* | AVR · MCU Interfacing · UART · SPI · I2C |
 | 2024 | ITI Training | Web Design — HTML · CSS · JavaScript |
-| 2025 | Graduation Project | AI Pipeline Detection — Embedded Layer |
-| 2026 | NTI *(4 months)* | MERN Stack |
-| 2026 | Route Academy *(In Progress)* | Node.js · Express · REST APIs |
-
-</div>
+| 2025 | Graduation Project | AI Pipeline Detection — Embedded Systems Layer |
+| 2026 | NTI *(4 months)* | MERN Stack — MongoDB · Express · React · Node.js |
+| 2026 | Route Academy *(In Progress)* | Backend — Node.js · Express · REST APIs |
 
 ---
 
+> *"Frontend depth + Embedded Systems background — every layer I learned made the next one deeper."*
+
 <div align="center">
-
-*"Frontend depth + Embedded Systems background — every layer I learned made the next one deeper."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0f4c81&height=80&section=footer" alt="Footer" />
-
 </div>
