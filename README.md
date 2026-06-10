@@ -1,68 +1,56 @@
+<img align="right" alt="Coding" width="1000" height="80" src="/elsayed.svg">
 <div align="center">
+<p>
+<img src="" alt=""></p>
+<h2 align="center" font-size:"20px"="">I'm Software Engineer & Developer 💻 </h2>
+<p>🌱 I’m currently learning <strong>Embedded systems& Software Testing & Front end developer</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+Next.js+Developer;Future+Full+Stack+Engineer;Embedded+Systems+Background" />
-
+<p>💬 Ask me about <strong>C/C++, MCU Interfacing, communication protocols</strong>
+<img src="" alt="">
+<img src="" alt=""></p>
 </div>
 
-## ⚡ Quick Overview
+<h2 align="center">🛠 Languages and Tools</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff">&nbsp;
+</div> 
+<div align="center">  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src="/Microchip studio.avif" ></code>
+<code><img height="30" src="/codeblock.svg" ></code>
+<code><img height="30" src="/proteus.webp" ></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;
+<code><img height = "30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
+<code><img height = "30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;</div>
 
-<table>
-<tr>
-<td>🎯 Current Focus</td>
-<td>Frontend Engineering (React / Next.js)</td>
-</tr>
+<h2 align="center">📫 Connect with me</h2>
+<div align="center">  
+  <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="LinkedIn"
+style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:elsayedhossny909@gmail.com">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" alt="Gmail" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
 
-<tr>
-<td>📚 Learning</td>
-<td>Node.js · Express.js · MongoDB</td>
-</tr>
+  <a href="https://www.hackerrank.com/profile/elsayedhossny909">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;</div>
 
-<tr>
-<td>💼 Open To</td>
-<td>Frontend Roles · Internships · Freelance</td>
-</tr>
-
-<tr>
-<td>🌍 Location</td>
-<td>Egypt · Remote Friendly</td>
-</tr>
-
-<tr>
-<td>⚡ Background</td>
-<td>Frontend + Embedded Systems</td>
-</tr>
-</table>
-
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Live |
-|----------|------------|------|
-| CRM System | React, Next.js, TypeScript | 🔗 |
-| E-Commerce App | React, Redux Toolkit, API | 🔗 |
-| FreshCart Clone | React, Context API | 🔗 |
-| AI Graduation Project | Embedded Systems + AI | 🔗 |
-
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ElsayedHossny&theme=algolia&no-frame=true&column=4" />
-</p>
+<h2 align="center">🛠 My Stats</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=dark" alt="Top Languages Card">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=dark" alt="Streak" /></p></div>
 
 
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElsayedHossny&theme=github-dark" />
-</p>
-
-
-## 👨‍💻 About Me
-
-Software Engineer with a background in both Frontend Development and Embedded Systems.
-
-🎓 B.Sc. Communications & Computer Engineering  
-⚛️ React & Next.js Developer  
-🌱 Currently learning Node.js & Backend Development  
-🔌 Embedded Systems Diploma (Valeo Track)  
-🚀 Building toward Full Stack Engineering
