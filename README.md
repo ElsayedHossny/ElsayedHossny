@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="margin-top : 10px">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+React+%2F+Next.js;Full+Stack+in+Progress+%7C+Node.js;Embedded+Systems+Background+%7C+AVR+MCU;Open+to+Work+%7C+Egypt+%7C+Remote" alt="Typing SVG" />
 
@@ -15,6 +15,8 @@
 
 ## 👨‍💻 About Me
 
+Frontend engineer with an unconventional background — I build polished React/Next.js UIs by day and have wired AVR microcontrollers in C by night. Every layer I learned made the next one deeper.
+
 ```text
 💼 Now         →  Open to Frontend / Full Stack roles
 🎯 Goal        →  Full Stack Engineer (React + Node.js)
@@ -24,57 +26,6 @@
 🤝 Open to     →  Full-time · Internship · Freelance
 ```
 
-Frontend engineer with an unconventional background — I build polished React/Next.js UIs by day and have wired AVR microcontrollers in C by night. Every layer I learned made the next one deeper.
-
----
-
-## 🚀 Projects
-
-### 🏠 Real Estate CRM — Next.js Admin Dashboard
-> Full Arabic RTL admin system with property listings, auth, dark mode, and shadcn/ui components.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-
-**[→ GitHub Repo](#)** &nbsp;·&nbsp; **[→ Live Demo](#)**
-
----
-
-### 🛒 FreshCart — E-commerce SPA
-> Full e-commerce app with cart, checkout, auth, and real API integration. Deployed on Vercel.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**[→ GitHub Repo](#)** &nbsp;·&nbsp; **[→ Live Demo (Vercel)](#)**
-
----
-
-### 📊 Admin Dashboard — E-commerce Panel
-> Admin panel with charts, Zustand state management, and Recharts data visualization.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logoColor=white)
-
-**[→ GitHub Repo](#)**
-
----
-
-### 🤖 AI Pipeline Detector — Graduation Project
-> Embedded pipeline defect detection combining AVR MCU communication with a computer vision layer.
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR_MCU-EE0000?style=flat-square&logo=microchip&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-
-**[→ GitHub Repo](#)**
 
 ---
 
