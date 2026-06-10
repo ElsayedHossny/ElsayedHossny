@@ -1,55 +1,82 @@
-<img align="right" alt="Coding" width="1000" height="80" src="/elsayed.svg">
 <div align="center">
-<p>
-<img src="" alt=""></p>
-<h2 align="center" font-size:"20px"="">I'm Software Engineer & Developer 💻 </h2>
-<p>🌱 I’m currently learning <strong>Embedded systems& Software Testing & Front end developer</strong></p>
 
-<p>💬 Ask me about <strong>C/C++, MCU Interfacing, communication protocols</strong>
-<img src="" alt="">
-<img src="" alt=""></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:1a73e8&height=120&section=header&text=Elsayed%20Hossny&fontSize=40&fontColor=ffffff&fontAlignY=60&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Embedded%20Systems&descFontColor=cce4ff&descSize=16&descAlignY=80" alt="Header Banner" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-hossny-443a24238/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsayedhossny909@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/elsayedhossny909)
+
 </div>
 
-<h2 align="center">🛠 Languages and Tools</h2>
+---
+
+## 👋 About Me
+
+I am a **Software Engineer** with a dual specialization in **Frontend Web Development** and **Embedded Systems Engineering**. I build performant, scalable web applications using the modern React ecosystem, and design reliable low-level firmware for microcontroller-based systems.
+
+- 🚀 Delivering production-grade **React / Next.js** applications
+- 🔌 MCU interfacing, communication protocols (UART, SPI, I2C), and real-time systems
+- 📐 Writing clean, maintainable code following industry best practices
+- 📫 Reach me at **elsayedhossny909@gmail.com**
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### State Management & Data Fetching
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Formik](https://img.shields.io/badge/Formik-172B4D?style=flat-square&logo=formik&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### Embedded Systems & Low-Level
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-EE0000?style=flat-square&logo=microchip&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus_Design_Suite-1BA0E0?style=flat-square&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
-<img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff">&nbsp;
-</div> 
-<div align="center">  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="/Microchip studio.avif" ></code>
-<code><img height="30" src="/codeblock.svg" ></code>
-<code><img height="30" src="/proteus.webp" ></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;
-<code><img height = "30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
-<code><img height = "30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;</div>
 
-<h2 align="center">📫 Connect with me</h2>
-<div align="center">  
-  <a href="https://www.linkedin.com/in/elsayed-hossny-443a24238/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="LinkedIn"
-style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:elsayedhossny909@gmail.com">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" alt="Gmail" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ElsayedHossny&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
-  <a href="https://www.hackerrank.com/profile/elsayedhossny909">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
-<h2 align="center">🛠 My Stats</h2>
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🎓 HackerRank Verified — Problem Solving & C/C++
+- 📚 Route Academy — Frontend Web Development Track (React Ecosystem)
+- 🔧 Embedded Systems Engineering Coursework — AVR/ARM MCU Interfacing
+
+---
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=dark" alt="Top Languages Card">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=dark" alt="Streak" /></p></div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0f4c81&height=80&section=footer" alt="Footer" />
+
+</div>
