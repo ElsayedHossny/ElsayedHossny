@@ -83,21 +83,8 @@ Frontend engineer with an unconventional background — I build polished React/N
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=dark" alt="Top Languages Card">
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=dark" alt="Streak" /></p></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=dark" alt="Streak" /></p></div>
 
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ElsayedHossny&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
