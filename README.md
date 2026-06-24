@@ -78,7 +78,7 @@ Frontend engineer with an unconventional background — I build polished React/N
  
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=ElsayedHossny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ElsayedHossny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
 </div>
 <div align="center">
