@@ -1,5 +1,4 @@
-<h2 align="center">I'm Elsayed Hossny </h2>
-
+<p>
 <div align="center" style="margin-top : 10px">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+React+%2F+Next.js;Full+Stack+in+Progress+%7C+Node.js;Embedded+Systems+Background+%7C+AVR+MCU;Open+to+Work+%7C+Egypt+%7C+Remote" alt="Typing SVG" />
