@@ -89,19 +89,11 @@ Frontend engineer with an unconventional background — I build polished React/N
 | Year | Program | Focus |
 |------|---------|-------|
 | 2021–2025 | Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
-| 2022 | Self-taught — Elzero Web Academy | HTML · CSS · JavaScript · Frontend Foundations |
-| 2023 | Embedded Systems Diploma — Eng. Mohammed Abdelbasset *(Valeo)* | AVR · MCU Interfacing · UART · SPI · I2C |
-| 2024 | ITI Training | Web Design — HTML · CSS · JavaScript |
+| 2022-2023 | Self-taught — Elzero Web Academy | HTML · CSS · JavaScript · Frontend Foundations |
+| 2023-2024 | Embedded Systems Diploma — Eng. Mohammed Abdelbasset *(Valeo)* | AVR · MCU Interfacing · UART · SPI · I2C |
+| 2025 | ITI Training | Web Design — HTML · CSS · JavaScript |
 | 2025 | Graduation Project | AI Pipeline Detection — Embedded Systems Layer |
 | 2026 | NTI *(4 months)* | MERN Stack — MongoDB · Express · React · Node.js |
 | 2026 | Route Academy *(In Progress)* | Backend — Node.js · Express · REST APIs |
-
----
-
-> *"Frontend depth + Embedded Systems background — every layer I learned made the next one deeper."*
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0f4c81&height=80&section=footer" alt="Footer" />
-</div>
 
 
