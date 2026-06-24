@@ -27,19 +27,6 @@ Frontend engineer with an unconventional background — I build polished React/N
 💡 Edge        →  Frontend depth + Embedded Systems background
 🤝 Open to     →  Full-time · Internship · Freelance
 ```
-
-
----
-
-## 🛠 Tech Stack
-
----
-<h2 align="center">🛠 My Stats</h2>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=dark" alt="Top Languages Card">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=dark" alt="Streak" /></p></div>
-
-
 ---
 
 ## 🛠 Tech Stack
