@@ -31,7 +31,8 @@ Frontend engineer with an unconventional background — I build polished React/N
 
 ## 🛠 Tech Stack
  
-### Frontend
+### Full Stack Engineer
+##### Front end
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -50,7 +51,7 @@ Frontend engineer with an unconventional background — I build polished React/N
 ![Formik](https://img.shields.io/badge/Formik-172B4D?style=flat-square&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
  
-### Backend & APIs
+##### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
