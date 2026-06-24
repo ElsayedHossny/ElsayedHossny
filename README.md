@@ -86,8 +86,8 @@ Frontend engineer with an unconventional background — I build polished React/N
 
 ## 🎓 Education & Training
 
-| Year | Program | Focus |
-|------|---------|-------|
+| Year       | Program | Focus |
+|------------|---------|-------|
 |2021–2025| Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
 |2022-2023| Self-taught — Elzero Web Academy | HTML · CSS · JavaScript · Frontend Foundations |
 |2023-2024| Embedded Systems Diploma — Eng. Mohammed Abdelbasset *(Valeo)* | AVR · MCU Interfacing · UART · SPI · I2C |
