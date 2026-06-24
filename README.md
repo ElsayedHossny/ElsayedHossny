@@ -88,9 +88,9 @@ Frontend engineer with an unconventional background — I build polished React/N
 
 | Year | Program | Focus |
 |------|---------|-------|
-| 2021–2025 | Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
-| 2022-2023 | Self-taught — Elzero Web Academy | HTML · CSS · JavaScript · Frontend Foundations |
-| 2023-2024 | Embedded Systems Diploma — Eng. Mohammed Abdelbasset *(Valeo)* | AVR · MCU Interfacing · UART · SPI · I2C |
+|2021–2025| Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
+|2022-2023| Self-taught — Elzero Web Academy | HTML · CSS · JavaScript · Frontend Foundations |
+|2023-2024| Embedded Systems Diploma — Eng. Mohammed Abdelbasset *(Valeo)* | AVR · MCU Interfacing · UART · SPI · I2C |
 | 2025 | ITI Training | Web Design — HTML · CSS · JavaScript |
 | 2025 | Graduation Project | AI Pipeline Detection — Embedded Systems Layer |
 | 2026 | NTI *(4 months)* | MERN Stack — MongoDB · Express · React · Node.js |
