@@ -43,14 +43,12 @@ Frontend engineer with an unconventional background — I build polished React/N
  
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Formik](https://img.shields.io/badge/Formik-172B4D?style=flat-square&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -72,19 +70,6 @@ Frontend engineer with an unconventional background — I build polished React/N
  
 ---
  
-## 📊 GitHub Stats
- 
-<div align="center">
- 
-<img src="https://github-readme-stats.vercel.app/api?username=ElsayedHossny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
- 
 ## 📈 Contribution Graph
  
 <div align="center">
@@ -103,7 +88,7 @@ Frontend engineer with an unconventional background — I build polished React/N
 |------------|---------|-------|
 |2021–2025| Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
 |2022-2023| Self-taught — Elzero Web Academy | HTML · CSS · JavaScript · Frontend Foundations |
-|2023-2024| Embedded Systems Diploma — Eng. Mohammed Abdelbasset *(Valeo)* | AVR · MCU Interfacing · UART · SPI · I2C |
+|2024-2025| Embedded Systems Diploma — Eng. Mohammed Abdelbasset *(Valeo)* | AVR · MCU Interfacing · UART · SPI · I2C |
 | 2025 | ITI Training | Web Design — HTML · CSS · JavaScript |
 | 2025 | Graduation Project | AI Pipeline Detection — Embedded Systems Layer |
 | 2026 | NTI *(4 months)* | MERN Stack — MongoDB · Express · React · Node.js |
