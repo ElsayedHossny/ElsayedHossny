@@ -87,20 +87,6 @@ That mix means I don't just build UI — I understand what's happening underneat
 
 <br/>
 
-## 🎓 Education & Training
-
-| Year | Program | Focus |
-|:--|:--|:--|
-| 2021–2025 | Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
-| 2022–2023 | Self-Taught — Elzero Web School | HTML · CSS · JavaScript · Frontend |
-| 2024–2025 | Embedded Systems Diploma | AVR · MCU · UART · SPI · I2C |
-| 2025 | ITI Training | Web Design · HTML · CSS · JavaScript |
-| 2025 | Graduation Project | AI Pipeline Inspection Robot |
-| 2026 | NTI — MERN Stack | MongoDB · Express · React · Node.js |
-| 2026 | Route Academy — In Progress | Node.js · Express · REST APIs |
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <table>
@@ -165,15 +151,25 @@ A responsive e-commerce application built with **React.js**, from product browsi
 
 <br/>
 
+## 🎓 Education & Training
+
+| Year | Program | Focus |
+|:--|:--|:--|
+| 2021–2025 | Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
+| 2022–2023 | Self-Taught — Elzero Web School | HTML · CSS · JavaScript · Frontend |
+| 2024–2025 | Embedded Systems Diploma | AVR · MCU · UART · SPI · I2C |
+| 2025 | ITI Training | Web Design · HTML · CSS · JavaScript |
+| 2025 | Graduation Project | AI Pipeline Inspection Robot |
+| 2026 | NTI — MERN Stack | MongoDB · Express · React · Node.js |
+| 2026 | Route Academy — In Progress | Node.js · Express · REST APIs |
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElsayedHossny&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
