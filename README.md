@@ -1,16 +1,8 @@
-<div align="center">
+<div align="center" style="margin-top : 10px">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+React+%2F+Next.js;React+%7C+Next.js+%7C+TypeScript;Building+Modern+%26+Responsive+Web+Apps;Open+to+Work+%7C+Egypt+%7C+Remote" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+React+%2F+Next.js;Full+Stack+in+Progress+%7C+Node.js;Embedded+Systems+Background+%7C+AVR+MCU;Open+to+Work+%7C+Egypt+%7C+Remote" alt="Typing SVG" />
 
 <br/>
-
-
-
-
-
-
-
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-hossny-443a24238/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsayedhossny512@gmail.com)
@@ -23,21 +15,31 @@
 
 ## 👨‍💻 About Me
 
-Frontend engineer with an unconventional background — I build polished React/Next.js UIs by day and have wired AVR microcontrollers in C by night. Every layer I learned made the next one deeper.
+👋 Hi, I'm Elsayed Hossny
+Frontend Developer focused on React.js & Next.js
 
-```text
-💼 Now         →  Open to Frontend / Full Stack roles
-🎯 Goal        →  Full Stack Engineer (React + Node.js)
-🌍 Location    →  Egypt
-📚 Learning    →  Node.js · Express · REST APIs (Route Academy)
-💡 Edge        →  Frontend depth + Embedded Systems background
-🤝 Open to     →  Full-time · Internship · Freelance
-```
+I'm a Frontend Developer focused on building modern, responsive, and user-friendly web applications.
+
+My main stack is React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, and REST APIs.
+
+I enjoy turning ideas and designs into clean, reusable, and scalable interfaces, with a strong focus on performance, responsive design, API integration, authentication, and user experience.
+
+Currently, I'm expanding my Backend Development skills with Node.js and Express.js to strengthen my full-stack capabilities.
+
+💼 Role       → Frontend Developer
+⚛️ Core Stack → React.js · Next.js · TypeScript · JavaScript
+🎨 UI         → Tailwind CSS · Bootstrap · Responsive Design
+🔗 APIs       → REST APIs · Axios · React Query
+🔐 Auth       → NextAuth · JWT
+📚 Learning   → Node.js · Express.js · Backend Development
+🌍 Location   → Egypt
+💼 Status     → Open to Frontend Opportunities
+
 ---
 
 ## 🛠 Tech Stack
- 
-### Full Stack Engineer
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -48,18 +50,22 @@ Frontend engineer with an unconventional background — I build polished React/N
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
- 
+
+### State Management & Data
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Formik](https://img.shields.io/badge/Formik-172B4D?style=flat-square&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -73,9 +79,7 @@ Frontend engineer with an unconventional background — I build polished React/N
 ![AVR MCU](https://img.shields.io/badge/AVR_MCU-EE0000?style=flat-square&logo=microchip&logoColor=white)
 ![UART/SPI/I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-0078D4?style=flat-square&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
- 
 
- 
 ---
  
 ## 📈 Contribution Graph
@@ -90,16 +94,25 @@ Frontend engineer with an unconventional background — I build polished React/N
 </p>
 
 
-## 🎓 Education & Training
+🎓 Education & Training
+Year	Program	Focus
+2021–2025	Banha Faculty of Engineering	B.Sc. Communications & Computer Engineering
+2022–2023	Self-Taught — Elzero Web School	HTML · CSS · JavaScript · Frontend
+2024–2025	Embedded Systems Diploma	AVR · MCU · UART · SPI · I2C
+2025	ITI Training	Web Design · HTML · CSS · JavaScript
+2025	Graduation Project	AI Pipeline Inspection Robot
+2026	NTI — MERN Stack	MongoDB · Express · React · Node.js
+2026	Route Academy — In Progress	Node.js · Express · REST APIs
+💼 Open to Work
 
-| Year       | Program | Focus |
-|------------|---------|-------|
-|2021–2025| Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
-|2022-2023| Self-taught — Elzero Web Academy | HTML · CSS · JavaScript · Frontend Foundations |
-|2024-2025| Embedded Systems Diploma — Eng. Mohammed Abdelbasset *(Valeo)* | AVR · MCU Interfacing · UART · SPI · I2C |
-| 2025 | ITI Training | Web Design — HTML · CSS · JavaScript |
-| 2025 | Graduation Project | AI Pipeline Detection — Embedded Systems Layer |
-| 2026 | NTI *(4 months)* | MERN Stack — MongoDB · Express · React · Node.js |
-| 2026 | Route Academy *(In Progress)* | Backend — Node.js · Express · REST APIs |
+I'm currently looking for Frontend Developer opportunities where I can contribute, learn, and build real-world products.
+
+Open to:
+
+Full-time Frontend roles
+Junior Frontend roles
+React / Next.js opportunities
+Remote opportunities
+Freelance projects
 
 
