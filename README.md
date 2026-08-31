@@ -119,7 +119,7 @@ Node.js · Express.js · Backend Development
 
 ## 🚀 Featured Projects
 
-### 🛒 [Soukly — Bilingual E-Commerce Platform](https://github.com/ElsayedHossny/soukly)
+### 🛒 [Soukly — Bilingual E-Commerce Platform](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
 A modern e-commerce platform built with **Next.js** and **TypeScript**, supporting Arabic and English users with full RTL/LTR layout switching.
 
 **Key Features**
@@ -136,7 +136,7 @@ A modern e-commerce platform built with **Next.js** and **TypeScript**, supporti
 
 ---
 
-### 🏢 [Real Estate CRM System](https://github.com/ElsayedHossny/real-estate-crm)
+### 🏢 [Real Estate CRM System](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
 A full-stack CRM application built to manage real estate operations and business workflows end-to-end.
 
 **Key Features**
@@ -151,7 +151,7 @@ A full-stack CRM application built to manage real estate operations and business
 
 ---
 
-### 🛍️ [Fresh Cart — E-Commerce Application](https://github.com/ElsayedHossny/fresh-cart)
+### 🛍️ [Fresh Cart — E-Commerce Application](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
 A responsive e-commerce application built with **React.js**, from product browsing to checkout.
 
 **Key Features**
