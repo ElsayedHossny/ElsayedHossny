@@ -1,8 +1,16 @@
-<div align="center" style="margin-top : 10px">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+React+%2F+Next.js;Full+Stack+in+Progress+%7C+Node.js;Embedded+Systems+Background+%7C+AVR+MCU;Open+to+Work+%7C+Egypt+%7C+Remote" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+React+%2F+Next.js;React+%7C+Next.js+%7C+TypeScript;Building+Modern+%26+Responsive+Web+Apps;Open+to+Work+%7C+Egypt+%7C+Remote" alt="Typing SVG" />
 
 <br/>
+
+
+
+
+
+
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-hossny-443a24238/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsayedhossny512@gmail.com)
