@@ -165,8 +165,6 @@ A responsive e-commerce application built with **React.js**, from product browsi
 | 2026 | NTI — MERN Stack | MongoDB · Express · React · Node.js |
 | 2026 | Route Academy — In Progress | Node.js · Express · REST APIs |
 
-<br/>
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
