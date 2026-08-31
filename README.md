@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-hossny-443a24238/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsayedhossny512@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/elsayedhossny909)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091917977)
 [![Profile Views](https://komarev.com/ghpvc/?username=ElsayedHossny&style=for-the-badge&color=1A73E8)](https://github.com/ElsayedHossny)
 
 <br/>
@@ -181,6 +182,7 @@ I'm actively looking for **Frontend / Full-Stack** opportunities — full-time, 
 
 [![LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-hossny-443a24238/)
 [![Gmail](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsayedhossny512@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091917977)
 
 <br/>
 <sub>Open to Frontend / Full-Stack roles, freelance projects, and interesting collaborations.</sub>
