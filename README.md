@@ -151,6 +151,8 @@ A responsive e-commerce application built with **React.js**, from product browsi
 
 <br/>
 
+<div align="center">
+
 ## 🎓 Education & Training
 
 | Year | Program | Focus |
@@ -166,8 +168,6 @@ A responsive e-commerce application built with **React.js**, from product browsi
 <br/>
 
 ## 📊 GitHub Stats
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
