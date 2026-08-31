@@ -14,48 +14,27 @@
 ---
 
 ## 👨‍💻 About Me
-
+ 
 I'm **Elsayed Hossny**, a **Frontend Developer** who builds fast, clean, and user-focused web interfaces with **React.js** and **Next.js** — and I bring something most frontend developers don't: a **Communications & Computer Engineering** background with hands-on **embedded systems** experience (AVR microcontrollers, UART/SPI/I2C), plus growing **backend** skills in **Node.js** and **Express.js**.
-
+ 
 That mix means I don't just build UI — I understand what's happening underneath it: how data moves, how systems talk to each other, and how to reason about a product end-to-end.
-
+ 
 - 🎯 **Primary focus:** Frontend Development — React.js, Next.js, TypeScript
 - 🔧 **Actively building:** Full-stack skills with Node.js, Express.js, and REST APIs
 - ⚡ **Foundation:** Embedded Systems — AVR MCU, C/C++, UART/SPI/I2C, Proteus
 - 🎓 **Education:** B.Sc. Communications & Computer Engineering, Banha Faculty of Engineering
 - 🌍 **Location:** Egypt · Open to remote work
 - 💼 **Status:** Open to Frontend / Full-Stack opportunities
-
-<table>
-<tr>
-<td>
-
-**💼 Role**
-Frontend Developer
-
-**⚛️ Core Stack**
-React.js · Next.js · TypeScript · JavaScript
-
-**🎨 UI**
-Tailwind CSS · Bootstrap · Responsive Design
-
-</td>
-<td>
-
-**🔗 APIs**
-REST APIs · Axios · React Query
-
-**🔐 Auth**
-NextAuth · JWT
-
-**📚 Currently Learning**
-Node.js · Express.js · Backend Development
-
-</td>
-</tr>
-</table>
+💼 **Role:** Frontend Developer
+⚛️ **Core Stack:** React.js · Next.js · TypeScript · JavaScript
+🎨 **UI:** Tailwind CSS · Bootstrap · Responsive Design
+🔗 **APIs:** REST APIs · Axios · React Query
+🔐 **Auth:** NextAuth · JWT
+📚 **Currently Learning:** Node.js · Express.js · Backend Development
 
 ---
+
+<div >
 
 ## 🛠 Tech Stack
 
@@ -99,7 +78,8 @@ Node.js · Express.js · Backend Development
 
 
 ---
-<div align="center">
+
+
 ## 🎓 Education & Training
 
 | Year | Program | Focus |
@@ -114,11 +94,16 @@ Node.js · Express.js · Backend Development
 </div>
 ---
 
+
 ## 🚀 Featured Projects
-
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
 ### 🛒 [Soukly — Bilingual E-Commerce Platform](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+ 
 A modern e-commerce platform built with **Next.js** and **TypeScript**, supporting Arabic and English users with full RTL/LTR layout switching.
-
+ 
 **Key Features**
 - 🌐 Arabic / English localization
 - ↔️ RTL / LTR layout support
@@ -129,12 +114,13 @@ A modern e-commerce platform built with **Next.js** and **TypeScript**, supporti
 - 📱 Fully responsive UI
 - 🔗 REST API integration
 **Tech:** `Next.js` · `TypeScript` · `Tailwind CSS` · `NextAuth` · `REST APIs`
-
----
-
+ 
+</td>
+<td width="50%" valign="top">
 ### 🏢 [Real Estate CRM System](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
+ 
 A full-stack CRM application built to manage real estate operations and business workflows end-to-end.
-
+ 
 **Key Features**
 - 👥 Customer management
 - 🏢 Property management
@@ -143,12 +129,15 @@ A full-stack CRM application built to manage real estate operations and business
 - 🔐 Authentication
 - 📊 Responsive dashboard
 **Tech:** `React.js` · `JavaScript` · `Node.js` · `Express.js` · `Database`
-
----
-
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 ### 🛍️ [Fresh Cart — E-Commerce Application](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
+ 
 A responsive e-commerce application built with **React.js**, from product browsing to checkout.
-
+ 
 **Key Features**
 - 🛒 Shopping cart
 - 🔐 Authentication
@@ -157,8 +146,12 @@ A responsive e-commerce application built with **React.js**, from product browsi
 - 📱 Responsive design
 - 🔗 API integration
 **Tech:** `React.js` · `JavaScript` · `Bootstrap` · `REST APIs` · `Stripe`
-
----
+ 
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
