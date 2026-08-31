@@ -10,11 +10,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ElsayedHossny&style=for-the-badge&color=1A73E8)](https://github.com/ElsayedHossny)
 
 <br/>
-
 `Frontend Development` · `Full-Stack (Growing)` · `Embedded Systems Background`
-
 </div>
-
 <br/>
 
 ## 👨‍💻 About Me
@@ -23,22 +20,21 @@ I'm **Elsayed Hossny**, a **Frontend Developer** who builds fast, clean, and use
 
 That mix means I don't just build UI — I understand what's happening underneath it: how data moves, how systems talk to each other, and how to reason about a product end-to-end.
 
-- 🎯 **Primary focus:** Frontend Development — React.js, Next.js, TypeScript
-- 🔧 **Actively building:** Full-stack skills with Node.js, Express.js, and REST APIs
-- ⚡ **Foundation:** Embedded Systems — AVR MCU, C/C++, UART/SPI/I2C, Proteus
-- 🎓 **Education:** B.Sc. Communications & Computer Engineering, Banha Faculty of Engineering
-- 🌍 **Location:** Egypt · Open to remote work
-- 💼 **Status:** Open to Frontend / Full-Stack opportunities
+- 🎯 **Primary focus:** Frontend Development — React.js, Next.js, TypeScript <br/>
+- 🔧 **Actively building:** Full-stack skills with Node.js, Express.js, and REST APIs <br/>
+- ⚡ **Foundation:** Embedded Systems — AVR MCU, C/C++, UART/SPI/I2C, Proteus <br/>
+- 🎓 **Education:** B.Sc. Communications & Computer Engineering, Banha Faculty of Engineering <br/>
+- 🌍 **Location:** Egypt · Open to remote work <br/>
+- 💼 **Status:** Open to Frontend / Full-Stack opportunities <br/>
 
 <br/>
 
-💼 **Role:** Frontend Developer
-⚛️ **Core Stack:** React.js · Next.js · TypeScript · JavaScript
-🎨 **UI:** Tailwind CSS · Bootstrap · Responsive Design
-🔗 **APIs:** REST APIs · Axios · React Query
-🔐 **Auth:** NextAuth · JWT
-📚 **Currently Learning:** Node.js · Express.js · Backend Development
-
+💼 **Role:** Frontend Developer <br/>
+⚛️ **Core Stack:** React.js · Next.js · TypeScript · JavaScript <br/>
+🎨 **UI:** Tailwind CSS · Bootstrap · Responsive Design <br/>
+🔗 **APIs:** REST APIs · Axios · React Query <br/>
+🔐 **Auth:** NextAuth · JWT <br/>
+📚 **Currently Learning:** Node.js · Express.js · Backend Development <br/>
 <br/>
 
 ## 🛠 Tech Stack
@@ -173,11 +169,6 @@ A responsive e-commerce application built with **React.js**, from product browsi
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ElsayedHossny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsayedHossny&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
