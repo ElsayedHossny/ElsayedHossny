@@ -24,7 +24,6 @@ That mix means I don't just build UI — I understand what's happening underneat
 - 🔧 **Actively building:** Full-stack skills with Node.js, Express.js, and REST APIs <br/>
 - ⚡ **Foundation:** Embedded Systems — AVR MCU, C/C++, UART/SPI/I2C, Proteus <br/>
 - 🎓 **Education:** B.Sc. Communications & Computer Engineering, Banha Faculty of Engineering <br/>
-- 🌍 **Location:** Egypt · Open to remote work <br/>
 - 💼 **Status:** Open to Frontend / Full-Stack opportunities <br/>
 
 <br/>
