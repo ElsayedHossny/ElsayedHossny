@@ -91,7 +91,62 @@
     ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
 </div>
 
+## 🎓 Education & Training
+
+<div align="center">
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div>
+    `7/2026 → Now` → **Route Academy — Backend Training**<br/>
+    Node.js · Express · REST APIs
+  </div>
+
+  <div>
+    **NTI — MERN Stack** ← `4/2026 → 7/2026`<br/>
+    MongoDB · Express · React · Node.js
+  </div>
+
 </div>
+
+↓  
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div>
+    `2025` → **Graduation Project**<br/>
+    AI Pipeline Inspection Robot
+  </div>
+
+  <div>
+    **ITI — Web Design Training** ← `6/2025 → 7/2025`<br/>
+    HTML · CSS · JavaScript
+  </div>
+
+</div>
+
+↓
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div>
+    `4/2024 → 1/2025` → **Embedded Systems Diploma**<br/>
+    AVR · MCU · UART · SPI · I2C
+  </div>
+
+  <div>
+    **Self-Taught — Elzero Web School** ← `2022 → 2023`<br/>
+    HTML · CSS · JavaScript · Frontend
+  </div>
+
+</div>
+
+↓
+
+`9/2020 → 7/2025` → **B.Sc. Communications & Computer Engineering**
+
+</div>
+
 ## 🎓 Education & Training
 
 `7/2026 → Now` → **Route Academy — Backend Training** · Node.js · Express · REST APIs <br/>
