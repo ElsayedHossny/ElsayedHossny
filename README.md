@@ -98,6 +98,10 @@ That mix means I don't just build UI — I understand what's happening underneat
 
 A modern e-commerce platform built with **Next.js** and **TypeScript**, supporting Arabic and English users with full RTL/LTR layout switching.
 </td>
+
+</tr>
+
+<tr>
 <td  width="100%" valign="top">
 
 ### 🏢 [Real Estate CRM System](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
@@ -106,6 +110,9 @@ A full-stack CRM application built to manage real estate operations and business
 
 </td>
 
+</tr>
+
+<tr>
 <td width="100%" valign="top">
 
 ### 🛍️ [Fresh Cart — E-Commerce Application](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
