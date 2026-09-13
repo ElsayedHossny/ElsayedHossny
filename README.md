@@ -2,14 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=850&lines=Frontend+Engineer+%7C+React+%2F+Next.js;Growing+Full+Stack+%7C+Node.js+%2F+Express;Embedded+Systems+Background+%7C+AVR+MCU;Open+to+Work+%7C+Egypt+%7C+Remote" alt="Typing SVG" />
 
-<br/>
-
+<br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-hossny-443a24238/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsayedhossny512@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091917977)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/elsayedhossny909)
 [![Profile Views](https://komarev.com/ghpvc/?username=ElsayedHossny&style=for-the-badge&color=1A73E8)](https://github.com/ElsayedHossny)
-
 <br/>
 `Frontend Development` · `Full-Stack (Growing)` · `Embedded Systems Background`
 </div>
@@ -23,7 +21,6 @@ That mix means I don't just build UI — I understand what's happening underneat
 
 - 🎯 **Primary focus:** Frontend Development — React.js, Next.js, TypeScript <br/>
 - 🔧 **Actively building:** Full-stack skills with Node.js, Express.js, and REST APIs <br/>
-- ⚡ **Foundation:** Embedded Systems — AVR MCU, C/C++, UART/SPI/I2C, Proteus <br/>
 - 🎓 **Education:** B.Sc. Communications & Computer Engineering, Banha Faculty of Engineering <br/>
 - 💼 **Status:** Open to Frontend / Full-Stack opportunities <br/>
 
@@ -34,7 +31,7 @@ That mix means I don't just build UI — I understand what's happening underneat
 🎨 **UI:** Tailwind CSS · Bootstrap · Responsive Design <br/>
 🔗 **APIs:** REST APIs · Axios · React Query <br/>
 🔐 **Auth:** NextAuth · JWT <br/>
-📚 **Currently Learning:** Node.js · Express.js · Backend Development <br/>
+📚 **Currently Learning:** Backend Development Node.js <br/>
 <br/>
 
 
