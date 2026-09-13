@@ -15,7 +15,17 @@
 `Frontend Engineer` · `Full-Stack Engineer(Growing)` · `Embedded Systems Software Engineer` · `Computer Engineering Background`
 
 · `Graduated From Banha Faculty of Engineering`
+
+<br/><br/>
+
+
+  [![Soukly](https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
+
+
 </div>
+
+
+
 <br/>
 
 <table width="100%">
