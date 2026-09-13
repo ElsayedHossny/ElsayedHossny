@@ -94,9 +94,9 @@
 
 ## 🎓 Education & Training
 
-<div align="center">
+<div>
 
-`7/2026 → Now` → **Route Academy — Backend Training** · 
+`7/2026 → Now` → **Route Academy — Backend Training** · <br/>
 `4/2026 → 7/2026` → **NTI — MERN Stack**  
 `2025` → **Graduation Project** ·
 `6/2025 → 7/2025` → **ITI Training — Web Design** ·
