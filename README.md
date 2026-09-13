@@ -105,8 +105,7 @@ A modern e-commerce platform built with **Next.js** and **TypeScript**, supporti
 A full-stack CRM application built to manage real estate operations and business workflows end-to-end.
 
 </td>
-</tr>
-<tr>
+
 <td colspan="2" valign="top">
 
 ### 🛍️ [Fresh Cart — E-Commerce Application](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
