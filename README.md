@@ -12,6 +12,7 @@
 <br/>
 
 `Frontend Engineer` · `Full-Stack Engineer(Growing)` · `Embedded Systems Software Engineer` · `Computer Engineering Background`
+
 · `Graduated From Banha Faculty of Engineering`
 </div>
 <br/>
