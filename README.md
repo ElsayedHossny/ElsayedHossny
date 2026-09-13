@@ -40,15 +40,14 @@ That mix means I don't just build UI — I understand what's happening underneat
 ## 🛠 Tech Stack
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       
   **Project**</br>       
   [![Soukly](https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)  [![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)  [![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
       </td>
   </tr>
   <tr>
-  
-
+    
   **Frontend**</br>
       ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
       ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
