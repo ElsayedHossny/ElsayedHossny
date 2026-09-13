@@ -110,13 +110,15 @@
 [![Banha University](https://img.shields.io/badge/09%2F2020%20→%2007%2F2025-Banha%20University%20·%20B.Sc.-000000?style=flat-square&logo=academia&logoColor=white)](#)
 </div>
 
+**` GitHub Stats**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 
 
-## 📊 GitHub Stats
+## 📊
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
