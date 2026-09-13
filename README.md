@@ -47,7 +47,7 @@ That mix means I don't just build UI — I understand what's happening underneat
     <td width="50%" >c</td>
 </tr>
 <tr>
-    <td width="100%" >a</td>
+    <td colspan="2" width="100%" >a</td>
 </tr>
 
 <tr>
