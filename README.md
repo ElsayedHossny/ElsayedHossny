@@ -93,11 +93,9 @@
 </div>
  
 **`Education & Training`**
-<div>
-  
-## 🎓 Education & Training
+<div align="start">
 
-[![Route Academy](https://img.shields.io/badge/07%2F2026%20→%20Now-Route%20Academy%20·%20Backend-000000?style=for-the-badge&logo=nodedotjs&logoColor=68A063)](#) → [![NTI](https://img.shields.io/badge/04%2F2026%20→%2007%2F2026-NTI%20·%20MERN-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](#) → [![Graduation Project](https://img.shields.io/badge/2025-Graduation%20Project%20·%20AI%20%2B%20Embedded-000000?style=for-the-badge&logo=arduino&logoColor=00979D)](#) → [![ITI](https://img.shields.io/badge/06%2F2025%20→%2007%2F2025-ITI%20·%20Web%20Design-000000?style=for-the-badge&logo=html5&logoColor=E34F26)](#) → [![Embedded Systems](https://img.shields.io/badge/04%2F2024%20→%2001%2F2025-Embedded%20Systems%20Diploma-000000?style=for-the-badge&logo=arduino&logoColor=00979D)](#) → [![Elzero](https://img.shields.io/badge/2022%20→%202023-Elzero%20Web%20School%20·%20Frontend-000000?style=for-the-badge&logo=html5&logoColor=E34F26)](#) → [![Banha University](https://img.shields.io/badge/09%2F2020%20→%2007%2F2025-Banha%20University%20·%20B.Sc.%20Engineering-000000?style=for-the-badge&logo=academia&logoColor=white)](#)
+[![Route Academy](https://img.shields.io/badge/07%2F2026%20→%20Now-Route%20Academy%20·%20Backend-000000?style=for-the-badge&logo=nodedotjs&logoColor=68A063)](#) [![NTI](https://img.shields.io/badge/04%2F2026%20→%2007%2F2026-NTI%20·%20MERN-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](#) [![Graduation Project](https://img.shields.io/badge/2025-Graduation%20Project%20·%20AI%20%2B%20Embedded-000000?style=for-the-badge&logo=arduino&logoColor=00979D)](#) [![ITI](https://img.shields.io/badge/06%2F2025%20→%2007%2F2025-ITI%20·%20Web%20Design-000000?style=for-the-badge&logo=html5&logoColor=E34F26)](#) [![Embedded Systems](https://img.shields.io/badge/04%2F2024%20→%2001%2F2025-Embedded%20Systems%20Diploma-000000?style=for-the-badge&logo=arduino&logoColor=00979D)](#) [![Elzero](https://img.shields.io/badge/2022%20→%202023-Elzero%20Web%20School%20·%20Frontend-000000?style=for-the-badge&logo=html5&logoColor=E34F26)](#) [![Banha University](https://img.shields.io/badge/09%2F2020%20→%2007%2F2025-Banha%20University%20·%20B.Sc.%20Engineering-000000?style=for-the-badge&logo=academia&logoColor=white)](#)
 </div>
 
 </div>
