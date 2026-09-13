@@ -97,35 +97,12 @@ That mix means I don't just build UI — I understand what's happening underneat
 ### 🛒 [Soukly — Bilingual E-Commerce Platform](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
 
 A modern e-commerce platform built with **Next.js** and **TypeScript**, supporting Arabic and English users with full RTL/LTR layout switching.
-
-**Key Features**
-- 🌐 Arabic / English localization
-- ↔️ RTL / LTR layout support
-- 🌙 Dark / Light mode
-- 🔐 Authentication
-- 🛒 Cart & Wishlist
-- 🔎 Product filtering & pagination
-- 📱 Fully responsive UI
-- 🔗 REST API integration
-
-**Tech:** `Next.js` · `TypeScript` · `Tailwind CSS` · `NextAuth` · `REST APIs`
-
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 [Real Estate CRM System](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
 
 A full-stack CRM application built to manage real estate operations and business workflows end-to-end.
-
-**Key Features**
-- 👥 Customer management
-- 🏢 Property management
-- 🔄 Full CRUD operations
-- 🔗 REST API integration
-- 🔐 Authentication
-- 📊 Responsive dashboard
-
-**Tech:** `React.js` · `JavaScript` · `Node.js` · `Express.js` · `Database`
 
 </td>
 </tr>
