@@ -94,19 +94,15 @@
 ## 🎓 Education & Training
 
 <div align="center">
-
 <div style="display: flex; justify-content: space-between;">
-
   <div>
     `7/2026 → Now` → **Route Academy — Backend Training**<br/>
     Node.js · Express · REST APIs
   </div>
-
   <div>
     **NTI — MERN Stack** ← `4/2026 → 7/2026`<br/>
     MongoDB · Express · React · Node.js
   </div>
-
 </div>
 
 ↓  
