@@ -95,8 +95,9 @@ That mix means I don't just build UI — I understand what's happening underneat
       ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
       ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
     </td>
-     </tr>
-    <td width="50%" valign="top">
+    </tr>
+    <tr>
+    <td width="100%" valign="top">
   **Embedded Systems**<br/>
       ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
       ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -104,8 +105,11 @@ That mix means I don't just build UI — I understand what's happening underneat
       ![UART/SPI/I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-0078D4?style=flat-square&logoColor=white)
       ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
     </td>
+    </tr>
   </tr>
 </table>
+
+
 
 <div  align="center">  
   
