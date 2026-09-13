@@ -94,77 +94,9 @@
 
 ## 🎓 Education & Training
 
-<table align="center">
-  <tr>
-    <td align="left">
-
-      `2026` → **Route Academy — In Progress** · Node.js · Express · REST APIs
-
-    </td>
-    <td align="right">
-
-      `2026` → **NTI — MERN Stack** · MongoDB · Express · React · Node.js
-
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" align="center">↓</td>
-  </tr>
-
-  <tr>
-    <td align="left">
-
-      `2025` → **Graduation Project** · AI Pipeline Inspection Robot
-
-    </td>
-    <td align="right">
-
-      `2025` → **ITI Training** · Web Design · HTML · CSS · JavaScript
-
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" align="center">↓</td>
-  </tr>
-
-  <tr>
-    <td align="left">
-
-      `2024–2025` → **Embedded Systems Diploma** · AVR · MCU · UART · SPI · I2C
-
-    </td>
-    <td align="right">
-
-      `2022–2023` → **Self-Taught — Elzero Web School** · HTML · CSS · JavaScript · Frontend
-
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" align="center">↓</td>
-  </tr>
-
-  <tr>
-    <td align="left">
-
-      `2021–2025` → **B.Sc. Communications & Computer Engineering**
-
-    </td>
-    <td></td>
-  </tr>
-</table>
-
-## 🎓 Education & Training
-
 <div align="center">
 
-`2026` → **Route Academy — In Progress** · Node.js · Express · REST APIs  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
-`2026` → **NTI — MERN Stack** · MongoDB · Express · React · Node.js  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
-`2025` → **Graduation Project** · AI Pipeline Inspection Robot  
+`7/2026 → Now` → **Route Academy — Backend Training** · → `4/2026 → 7/2026` → **NTI — MERN Stack**  `2025` → **Graduation Project** · AI Pipeline Inspection Robot  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
 `2025` → **ITI Training** · Web Design · HTML · CSS · JavaScript  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
