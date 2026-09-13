@@ -93,7 +93,7 @@
 </div>
  
 **`Education & Training`**
-<div align="start">
+<div align="center">
 
 [![Route Academy](https://img.shields.io/badge/07%2F2026%20→%20Now-Route%20Academy%20·%20Backend-000000?style=flat-square&logo=nodedotjs&logoColor=68A063)](#)
 &nbsp;&nbsp;
