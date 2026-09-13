@@ -92,7 +92,10 @@ That mix means I don't just build UI — I understand what's happening underneat
 
 <table align="center">
 
-<div  align="center">  ## 🚀 Featured Projects </div>
+<div  align="center">  
+  
+  ## 🚀 Featured Projects
+</div>
 
   
 <tr>
