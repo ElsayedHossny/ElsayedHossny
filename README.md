@@ -92,13 +92,13 @@ That mix means I don't just build UI — I understand what's happening underneat
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### 🛒 [Soukly — Bilingual E-Commerce Platform](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
 
 A modern e-commerce platform built with **Next.js** and **TypeScript**, supporting Arabic and English users with full RTL/LTR layout switching.
 </td>
-<td width="50%" valign="top">
+<td  valign="top">
 
 ### 🏢 [Real Estate CRM System](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
 
@@ -106,7 +106,7 @@ A full-stack CRM application built to manage real estate operations and business
 
 </td>
 
-<td colspan="2" valign="top">
+<td  valign="top">
 
 ### 🛍️ [Fresh Cart — E-Commerce Application](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
 
