@@ -90,6 +90,31 @@
     ![UART/SPI/I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-0078D4?style=flat-square&logoColor=white)
     ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
 </div>
+
+
+## 🎓 Education & Training
+
+<div align="center">
+
+`2026` → **Route Academy — In Progress** · Node.js · Express · REST APIs  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
+`2026` → **NTI — MERN Stack** · MongoDB · Express · React · Node.js  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
+`2025` → **Graduation Project** · AI Pipeline Inspection Robot  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
+`2025` → **ITI Training** · Web Design · HTML · CSS · JavaScript  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
+`2024–2025` → **Embedded Systems Diploma** · AVR · MCU · UART · SPI · I2C  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
+`2022–2023` → **Self-Taught — Elzero Web School** · HTML · CSS · JavaScript · Frontend  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
+`2021–2025` → **B.Sc. Communications & Computer Engineering**
+
+</div>
+
+
+
+
 <div align="center">
 
 ## 🎓 Education & Training
