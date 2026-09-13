@@ -43,7 +43,7 @@ That mix means I don't just build UI — I understand what's happening underneat
     <td width="50%" valign="top">
 
 **Frontend**
-<br/>
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -61,7 +61,6 @@ That mix means I don't just build UI — I understand what's happening underneat
     <td width="50%" valign="top">
 
 **State Management & Data**
-<br/>
 
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
