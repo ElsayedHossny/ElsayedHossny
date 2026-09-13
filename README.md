@@ -104,6 +104,8 @@ That mix means I don't just build UI — I understand what's happening underneat
 <tr>
 <td width="100%" valign="top">
   
+  [![Soukly](https://img.shields.io/badge/Soukly-E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+  
 ### 🛒 [Soukly — Bilingual E-Commerce Platform](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
   
 A modern e-commerce platform built with **Next.js** and **TypeScript**, supporting Arabic and English.
