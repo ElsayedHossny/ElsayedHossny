@@ -59,7 +59,8 @@ That mix means I don't just build UI — I understand what's happening underneat
   </tr>
     <td>   
     
-  **Frontend**</br> 
+  **Frontend**
+  </br> 
     ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
     ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -72,7 +73,8 @@ That mix means I don't just build UI — I understand what's happening underneat
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
     </td>
     <td>
-  **Backend**<br/>
+  **Backend**
+  <br/>
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
     ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -86,7 +88,8 @@ That mix means I don't just build UI — I understand what's happening underneat
   <tr>
     <td>
       
-  **State Management & Data**</br>
+  **State Management & Data**
+  </br>
     ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
     ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
     ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -94,7 +97,8 @@ That mix means I don't just build UI — I understand what's happening underneat
     ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
     </td>
     <td>
-  **Tools**<br/>
+  **Tools**
+  <br/>
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
     ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -107,7 +111,8 @@ That mix means I don't just build UI — I understand what's happening underneat
   <tr>
     <td colspan="2">
 
-  **Embedded Systems**<br/>
+  **Embedded Systems**
+  <br/>
     ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
     ![AVR MCU](https://img.shields.io/badge/AVR_MCU-EE0000?style=flat-square&logo=microchip&logoColor=white)
