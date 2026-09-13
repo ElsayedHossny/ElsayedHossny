@@ -39,7 +39,11 @@ That mix means I don't just build UI — I understand what's happening underneat
 
 ## 🛠 Tech Stack
 
-**Frontend**
+<table>
+  <tr>
+    <td width="500%" valign="top">
+    
+  **Frontend**
 <br/>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -51,14 +55,23 @@ That mix means I don't just build UI — I understand what's happening underneat
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**State Management & Data**
+    </td>
+    <td width="500%" valign="top">
+    
+  **State Management & Data**
 <br/>
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Formik](https://img.shields.io/badge/Formik-172B4D?style=flat-square&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+    </td>
+  </tr>
+</table>
+
+
+
 
 **Backend — Currently Learning**
 <br/>
