@@ -93,29 +93,15 @@
 </div>
  
 **`Education & Training`**
-<div align="center">
+<div align="start">
 
-[![Route Academy](https://img.shields.io/badge/07%2F2026%20→%20Now-Route%20Academy%20·%20Backend-000000?style=flat-square&logo=nodedotjs&logoColor=68A063)](#) &nbsp; [![NTI](https://img.shields.io/badge/04%2F2026%20→%2007%2F2026-NTI%20·%20MERN-000000?style=flat-square&logo=react&logoColor=61DAFB)](#) &nbsp; [![Graduation Project](https://img.shields.io/badge/2025-Graduation%20Project%20·%20AI%20%2B%20Embedded-000000?style=flat-square&logo=arduino&logoColor=00979D)](#) &nbsp; [![ITI](https://img.shields.io/badge/06%2F2025%20→%2007%2F2025-ITI%20·%20Web%20Design-000000?style=flat-square&logo=html5&logoColor=E34F26)](#) &nbsp; [![Embedded Systems](https://img.shields.io/badge/04%2F2024%20→%2001%2F2025-Embedded%20Systems-000000?style=flat-square&logo=arduino&logoColor=00979D)](#) &nbsp; [![Elzero](https://img.shields.io/badge/2022%20→%202023-Elzero%20Web%20School%20·%20Frontend-000000?style=flat-square&logo=html5&logoColor=E34F26)](#) &nbsp; [![Banha University](https://img.shields.io/badge/09%2F2020%20→%2007%2F2025-Banha%20University%20·%20B.Sc.-000000?style=flat-square&logo=academia&logoColor=white)](#)
-
-</div>
+[![Route Academy](https://img.shields.io/badge/07%2F2026%20→%20Now-Route%20Academy%20·%20Backend-000000?style=flat-square&logo=nodedotjs&logoColor=68A063)](#) &nbsp;&nbsp; [![NTI](https://img.shields.io/badge/04%2F2026%20→%2007%2F2026-NTI%20·%20MERN-000000?style=flat-square&logo=react&logoColor=61DAFB)](#) &nbsp;&nbsp; [![Graduation Project](https://img.shields.io/badge/2025-Graduation%20Project%20·%20AI%20%2B%20Embedded-000000?style=flat-square&logo=arduino&logoColor=00979D)](#) &nbsp;&nbsp; [![ITI](https://img.shields.io/badge/06%2F2025%20→%2007%2F2025-ITI%20·%20Web%20Design-000000?style=flat-square&logo=html5&logoColor=E34F26)](#) &nbsp;&nbsp; [![Embedded Systems](https://img.shields.io/badge/04%2F2024%20→%2001%2F2025-Embedded%20Systems-000000?style=flat-square&logo=arduino&logoColor=00979D)](#) &nbsp;&nbsp; [![Elzero](https://img.shields.io/badge/2022%20→%202023-Elzero%20Web%20School%20·%20Frontend-000000?style=flat-square&logo=html5&logoColor=E34F26)](#) &nbsp;&nbsp; [![Banha University](https://img.shields.io/badge/09%2F2020%20→%2007%2F2025-Banha%20University%20·%20B.Sc.-000000?style=flat-square&logo=academia&logoColor=white)](#)
 
 </div>
 
+</div>
 
 
-<div align="center">
-
-## 🎓 Education & Training
-
-| Year | Program | Focus |
-|:--|:--|:--|
-| 2021–2025 | Banha Faculty of Engineering | B.Sc. Communications & Computer Engineering |
-| 2022–2023 | Self-Taught — Elzero Web School | HTML · CSS · JavaScript · Frontend |
-| 2024–2025 | Embedded Systems Diploma | AVR · MCU · UART · SPI · I2C |
-| 2025 | ITI Training | Web Design · HTML · CSS · JavaScript |
-| 2025 | Graduation Project | AI Pipeline Inspection Robot |
-| 2026 | NTI — MERN Stack | MongoDB · Express · React · Node.js |
-| 2026 | Route Academy — In Progress | Node.js · Express · REST APIs |
 
 ## 📊 GitHub Stats
 
