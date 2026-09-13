@@ -94,6 +94,7 @@
  
 **`Education & Training`**
 <div>
+  
 [![Route Academy](https://img.shields.io/badge/07%2F2026%20→%20Now-Route%20Academy%20·%20Backend-000000?style=flat-square&logo=nodedotjs&logoColor=68A063)](#)
 [![NTI](https://img.shields.io/badge/04%2F2026%20→%2007%2F2026-NTI%20·%20MERN-000000?style=flat-square&logo=react&logoColor=61DAFB)](#)
 [![Graduation Project](https://img.shields.io/badge/2025-Graduation%20Project%20·%20AI%20%2B%20Embedded-000000?style=flat-square&logo=arduino&logoColor=00979D)](#)
