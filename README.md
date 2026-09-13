@@ -105,6 +105,12 @@ That mix means I don't just build UI — I understand what's happening underneat
 <td width="100%" valign="top">
   
   [![Soukly](https://img.shields.io/badge/Soukly-E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+
+[![Soukly](https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+
+[![Soukly](https://img.shields.io/badge/🛒_Soukly-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+
+A modern bilingual e-commerce platform built with **Next.js, TypeScript, and Tailwind CSS**, supporting **Arabic & English**, **RTL/LTR**, and **Dark/Light Mode**.
   
 ### 🛒 [Soukly — Bilingual E-Commerce Platform](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
   
