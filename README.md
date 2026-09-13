@@ -23,7 +23,7 @@
 
 **`Technical Skills`**
 
-<table width="100%">
+<table width="100%" align="center">
   <colgroup>
     <col width="50%">
     <col width="50%">
@@ -59,7 +59,7 @@
   <tr>
     <td>
       
-  **State Management & Data**
+  **`State Management & Data`**
   </br>
     ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
     ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
@@ -68,7 +68,7 @@
     ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
     </td>
     <td>
-  **Tools**
+  **`Tools`**
   <br/>
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
