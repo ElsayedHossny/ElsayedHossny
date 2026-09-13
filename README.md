@@ -44,7 +44,7 @@
     ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
     </td>
-    <td>
+    <td align="center">
   **`Backend`**</br>
   <br/>
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -58,7 +58,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       
   **`State Management & Data`**</br>
   </br>
@@ -68,7 +68,7 @@
     ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
     ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
     </td>
-    <td>
+    <td align="center">
   **`Tools`**</br>
   <br/>
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
