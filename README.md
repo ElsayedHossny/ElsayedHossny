@@ -96,55 +96,14 @@ That mix means I don't just build UI — I understand what's happening underneat
   </tr>
 </table>
 
-<table align="center">
 <div  align="center">  
   
   ## 🚀 Featured Projects
+  [![Soukly](https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)  
+  [![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)  [![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
+
+
 </div>
-<tr>
-<td width="100%" valign="top">
-  
-  [![Soukly](https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)  [![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)  [![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
-
-
-[![Soukly](https://img.shields.io/badge/🛒_Soukly-Next.js_Bilingual_E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
-
-[![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
-
-[![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-React_E--Commerce-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
-
-
-### 🚀 Featured Projects
-
-[![Soukly](https://img.shields.io/badge/🛒_Soukly-E--Commerce-000000?style=flat-square)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
-[![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=flat-square)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
-[![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=flat-square)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
-
-  
-### 🛒 [Soukly — Bilingual E-Commerce Platform](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
-
-
-  
-A modern e-commerce platform built with **Next.js** and **TypeScript**, supporting Arabic and English.
-</td>
-</tr>
-<tr>
-<td  width="100%" valign="top">
-
-### 🏢 [Real Estate CRM System](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
-
-A full-stack CRM application built to manage real estate operations and business workflows end-to-end.
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-### 🛍️ [Fresh Cart — E-Commerce Application](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
-
-A responsive e-commerce application built with **React.js**, from product browsing to checkout.
-</td>
-</tr>
-</table>
 
 <div align="center">
 
