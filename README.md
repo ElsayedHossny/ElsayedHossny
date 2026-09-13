@@ -90,7 +90,7 @@ That mix means I don't just build UI — I understand what's happening underneat
 
 ## 🚀 Featured Projects
 
-<table>
+<table align="center">
 <tr>
 <td width="100%" valign="top">
   
