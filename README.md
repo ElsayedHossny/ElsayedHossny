@@ -50,7 +50,7 @@ That mix means I don't just build UI — I understand what's happening underneat
   </colgroup>
   <tr>
   <tr>
-    <td colspan="2"   align="center">
+    <td colspan="2">
     
   **Project** 
   
