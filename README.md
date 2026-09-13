@@ -17,10 +17,6 @@
 </div>
 <br/>
 
-## 👨‍💻 About Me
-
-I'm **Elsayed Hossny**, a **Frontend Developer** who builds fast, clean, and user-focused web interfaces with **React.js** and **Next.js** — and I bring something most frontend developers don't: a **Communications & Computer Engineering** background with hands-on **embedded systems** experience (AVR microcontrollers, UART/SPI/I2C), plus growing **backend** skills in **Node.js** and **Express.js**.
-
 
 ## 🛠 Skills & Projects
 
