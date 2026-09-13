@@ -92,6 +92,7 @@
     ![UART/SPI/I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-0078D4?style=flat-square&logoColor=white)
     ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
 </div>
+<hr/>
  
 **`Education & Training`**
 <div align="center">
@@ -110,7 +111,7 @@
 <br/>
 [![Banha University](https://img.shields.io/badge/09%2F2020%20→%2007%2F2025-Banha%20University%20·%20B.Sc.-000000?style=flat-square&logo=academia&logoColor=white)](#)
 </div>
-
+<hr/>
 **`GitHub Stats`**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElsayedHossny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
