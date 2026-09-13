@@ -40,8 +40,7 @@ That mix means I don't just build UI — I understand what's happening underneat
 ## 🛠 Tech Stack
 <table>
   <tr>
-    <td>
-      
+    
   **Frontend**</br>
       ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
       ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
