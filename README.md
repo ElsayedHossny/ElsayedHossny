@@ -96,6 +96,16 @@
 
 ## 🎓 Education & Training
 
+## 🎓 Education & Training
+
+[![Route Academy](https://img.shields.io/badge/07%2F2026%20→%20Now-Route%20Academy%20·%20Backend-000000?style=flat-square&logo=nodedotjs&logoColor=white)](#)
+[![NTI](https://img.shields.io/badge/04%2F2026%20→%2007%2F2026-NTI%20·%20MERN-000000?style=flat-square&logo=react&logoColor=61DAFB)](#)
+[![Graduation Project](https://img.shields.io/badge/2025-Graduation%20Project%20·%20AI%20Robot-000000?style=flat-square&logo=arduino&logoColor=white)](#)
+[![ITI](https://img.shields.io/badge/06%2F2025%20→%2007%2F2025-ITI%20·%20Web%20Design-000000?style=flat-square&logo=html5&logoColor=E34F26)](#)
+[![Embedded Systems](https://img.shields.io/badge/04%2F2024%20→%2001%2F2025-Embedded%20Systems-000000?style=flat-square&logo=arduino&logoColor=white)](#)
+[![Elzero](https://img.shields.io/badge/2022%20→%202023-Elzero%20Web%20School-000000?style=flat-square)](#)
+[![Banha Engineering](https://img.shields.io/badge/09%2F2020%20→%2007%2F2025-B.Sc.%20Engineering-000000?style=flat-square)](#)
+
 `7/2026 → Now` → **Route Academy — Backend Training** · Node.js · Express · REST APIs <br/>
 `4/2026 → 7/2026` → **NTI — MERN Stack** · MongoDB · Express · React · Node.js <br/>
 `2025` → **Graduation Project** · AI Pipeline Inspection Robot <br/>
