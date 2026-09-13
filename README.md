@@ -91,7 +91,7 @@
     ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
 </div>
 
-
+</div>
 ## 🎓 Education & Training
 
 <div>
