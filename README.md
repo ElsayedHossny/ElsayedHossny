@@ -38,7 +38,36 @@ That mix means I don't just build UI — I understand what's happening underneat
 <br/>
 
 
+
+
+
 ## 🛠 Skills & Projects
+
+
+
+<table width="100%">
+  <colgroup>
+    <col width="50%">
+    <col width="50%">
+  </colgroup>
+
+  <tr>
+    <td>a</td>
+    <td>c</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">a</td>
+  </tr>
+
+  <tr>
+    <td>a</td>
+    <td>c</td>
+  </tr>
+</table>
+
+
+
 
 <table>
 
