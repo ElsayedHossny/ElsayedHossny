@@ -111,6 +111,13 @@ That mix means I don't just build UI — I understand what's happening underneat
   [![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
 
 
+
+[![Soukly](https://img.shields.io/badge/🛒_Soukly-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+
+[![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
+
+[![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
+
 ### 🚀 Featured Projects
 
 [![Soukly](https://img.shields.io/badge/🛒_Soukly-E--Commerce-000000?style=flat-square)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
