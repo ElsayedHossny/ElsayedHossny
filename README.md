@@ -40,7 +40,7 @@ That mix means I don't just build UI — I understand what's happening underneat
 ## 🛠 Tech Stack
 <table>
   <tr>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 **Frontend**
 
@@ -56,7 +56,7 @@ That mix means I don't just build UI — I understand what's happening underneat
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-    </td>
+</td>
 
     <td width="50%" valign="top">
 
