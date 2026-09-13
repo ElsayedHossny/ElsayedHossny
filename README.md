@@ -37,7 +37,6 @@
     ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 </div>
-<br/>
 
 `State Management & Data`
 <div>
@@ -48,7 +47,6 @@
     ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
     ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 </div>
-<br/>
 
 `Backend`
 <div>
@@ -62,7 +60,6 @@
     ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white)
     ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) 
 </div>
-<br/>
 
 `Tools`
 <div>
@@ -75,7 +72,6 @@
     ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 </div>
-<br/>
 
 `Embedded Systems`
 <div>
