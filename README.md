@@ -24,7 +24,7 @@
 
 </br>
 
-</div>
+
 
 <br/>
 
@@ -141,5 +141,8 @@ I'm actively looking for **Frontend / Full-Stack** opportunities — full-time, 
 
 <br/>
 <sub>Open to Frontend / Full-Stack roles, freelance projects, and interesting collaborations.</sub>
+
+</div>
+
 
 </div>
