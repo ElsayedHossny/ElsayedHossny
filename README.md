@@ -96,14 +96,12 @@
 
 <div align="center">
 
-`7/2026 → Now` → **Route Academy — Backend Training** · → `4/2026 → 7/2026` → **NTI — MERN Stack**  `2025` → **Graduation Project** · AI Pipeline Inspection Robot  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
-`2025` → **ITI Training** · Web Design · HTML · CSS · JavaScript  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
-`2024–2025` → **Embedded Systems Diploma** · AVR · MCU · UART · SPI · I2C  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
-`2022–2023` → **Self-Taught — Elzero Web School** · HTML · CSS · JavaScript · Frontend  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓  
+`7/2026 → Now` → **Route Academy — Backend Training** · 
+`4/2026 → 7/2026` → **NTI — MERN Stack**  
+`2025` → **Graduation Project** ·
+`6/2025 → 7/2025` → **ITI Training — Web Design** ·
+`4/2024 → 1/2025` → **Embedded Systems Diploma**
+`2022–2023` → **Self-Taught — Elzero Web School**
 `2021–2025` → **B.Sc. Communications & Computer Engineering**
 
 </div>
