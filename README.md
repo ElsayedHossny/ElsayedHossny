@@ -104,15 +104,23 @@ That mix means I don't just build UI — I understand what's happening underneat
 <tr>
 <td width="100%" valign="top">
   
-  [![Soukly](https://img.shields.io/badge/Soukly-E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+  [![Soukly](https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
 
-[![Soukly](https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+[![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
 
-[![Soukly](https://img.shields.io/badge/🛒_Soukly-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+  [![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
 
-A modern bilingual e-commerce platform built with **Next.js, TypeScript, and Tailwind CSS**, supporting **Arabic & English**, **RTL/LTR**, and **Dark/Light Mode**.
+
+### 🚀 Featured Projects
+
+[![Soukly](https://img.shields.io/badge/🛒_Soukly-E--Commerce-000000?style=flat-square)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+[![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=flat-square)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)
+[![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=flat-square)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
+
   
 ### 🛒 [Soukly — Bilingual E-Commerce Platform](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)
+
+
   
 A modern e-commerce platform built with **Next.js** and **TypeScript**, supporting Arabic and English.
 </td>
