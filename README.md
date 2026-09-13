@@ -16,7 +16,7 @@
 
 · `Graduated From Banha Faculty of Engineering`
 
-<br/><br/>
+<br/>
 
 `Project`
    
@@ -25,8 +25,6 @@
 </br>
 
 </div>
-
-
 
 <br/>
 
