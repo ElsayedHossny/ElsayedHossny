@@ -42,7 +42,7 @@ That mix means I don't just build UI — I understand what's happening underneat
   <tr>
     <td width="50%" valign="top">
 
-  **Frontend** </br>
+  **Frontend**</br>
       ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
       ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
       ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -55,43 +55,56 @@ That mix means I don't just build UI — I understand what's happening underneat
       ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
     </td>
     <td width="50%" valign="top">
-  **State Management & Data**
+    **Backend**<br/>
+      ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+      ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+      ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+      ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+      ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+      ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+      ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white)
+      ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+    </td>
+    <tr>
+    <td width="50%" valign="top">
+  **State Management & Data** </br>
       ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
       ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
       ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black)
       ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
       ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
     </td>
+    <td width="50%" valign="top">
+  **Tools**<br/>
+      ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+      ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+      ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+      ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+      ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+      ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+    </td>
+     </tr>
+    <td width="50%" valign="top">
+  **Embedded Systems**<br/>
+      ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+      ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+      ![AVR MCU](https://img.shields.io/badge/AVR_MCU-EE0000?style=flat-square&logo=microchip&logoColor=white)
+      ![UART/SPI/I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-0078D4?style=flat-square&logoColor=white)
+      ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
+    </td>
+
+
+
   </tr>
 </table>
 
 
 
-**Backend — Currently Learning**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-**Embedded Systems**
-<br/>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![AVR MCU](https://img.shields.io/badge/AVR_MCU-EE0000?style=flat-square&logo=microchip&logoColor=white)
-![UART/SPI/I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-0078D4?style=flat-square&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
 
-**Tools**
-<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+
+
 
 <br/>
 
