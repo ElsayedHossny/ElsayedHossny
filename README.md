@@ -136,15 +136,6 @@ A full-stack CRM application built to manage real estate operations and business
 
 A responsive e-commerce application built with **React.js**, from product browsing to checkout.
 
-**Key Features**
-- 🛒 Shopping cart
-- 🔐 Authentication
-- 🔎 Product browsing
-- 💳 Stripe checkout
-- 📱 Responsive design
-- 🔗 API integration
-
-**Tech:** `React.js` · `JavaScript` · `Bootstrap` · `REST APIs` · `Stripe`
 
 </td>
 </tr>
