@@ -23,15 +23,16 @@
 
 **`Technical Skills`**
 
-<table width="100%" align="center">
+<table width="100%" >
   <colgroup>
     <col width="50%">
     <col width="50%">
   </colgroup>
   <tr>
-    <td>   
+    <td align="center">   
     
-  **`Frontend`**</br></br>
+  **`Frontend`**</br>
+  </br>
     ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
     ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
