@@ -43,8 +43,8 @@ That mix means I don't just build UI — I understand what's happening underneat
 <table>
 
 <tr>
-    <td width="50%" >a</td>
-    <td width="50%" >c</td>
+    <td colspan="1" width="50%" >a</td>
+    <td colspan="1" width="50%" >c</td>
 </tr>
 <tr>
     <td colspan="2" width="100%" >a</td>
