@@ -91,8 +91,10 @@ That mix means I don't just build UI — I understand what's happening underneat
 
 
 <table align="center">
+
+<div  align="center">  ## 🚀 Featured Projects </div>
+
   
-  ## 🚀 Featured Projects
 <tr>
 <td width="100%" valign="top">
   
