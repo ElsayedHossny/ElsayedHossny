@@ -93,26 +93,10 @@ That mix means I don't just build UI — I understand what's happening underneat
       ![UART/SPI/I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-0078D4?style=flat-square&logoColor=white)
       ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
     </td>
-
-
-
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-<br/>
-
-
-
 <table align="center">
-
 <div  align="center">  
   
   ## 🚀 Featured Projects
