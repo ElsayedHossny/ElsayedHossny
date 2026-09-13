@@ -96,8 +96,6 @@ That mix means I don't just build UI — I understand what's happening underneat
   
   ## 🚀 Featured Projects
 </div>
-
-  
 <tr>
 <td width="100%" valign="top">
   
@@ -123,8 +121,6 @@ A responsive e-commerce application built with **React.js**, from product browsi
 </td>
 </tr>
 </table>
-
-<br/>
 
 <div align="center">
 
