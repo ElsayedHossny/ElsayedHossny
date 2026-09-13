@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=850&lines=Frontend+Engineer+%7C+React+%2F+Next.js;Growing+Full+Stack+%7C+Node.js+%2F+Express;Embedded+Systems+Background+%7C+AVR+MCU;Open+to+Work+%7C+Egypt+%7C+Remote" alt="Typing SVG" />
 
-`Eng. Elsayed Hossny Elsayed mohrous` 
+**`Eng. Elsayed Hossny Elsayed mohrous`** 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-hossny-443a24238/)
@@ -12,9 +12,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ElsayedHossny&style=for-the-badge&color=1A73E8)](https://github.com/ElsayedHossny)
 <br/>
 
-`Frontend Engineer` · `Full-Stack Engineer(Growing)` · `Embedded Systems Software Engineer` · `Computer Engineering Background`
+**`Frontend Engineer`** · `Full-Stack Engineer(Growing)` · `Embedded Systems Software Engineer` · **`Computer Engineering Background`**
 
-· `Graduated From Banha Faculty of Engineering`
+· **`Graduated From Banha Faculty of Engineering`**
 
 <br/>
 
@@ -22,7 +22,7 @@
 
   [![Soukly](https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
 
-****`Technical Skills`****
+**`Technical Skills`**
 
 <table width="100%">
   <colgroup>
