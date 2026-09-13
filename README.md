@@ -17,9 +17,6 @@
 </div>
 <br/>
 
-
-## 🛠 Skills & Projects
-
 <table width="100%">
   <colgroup>
     <col width="50%">
