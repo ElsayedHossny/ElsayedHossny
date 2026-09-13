@@ -2,13 +2,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=850&lines=Frontend+Engineer+%7C+React+%2F+Next.js;Growing+Full+Stack+%7C+Node.js+%2F+Express;Embedded+Systems+Background+%7C+AVR+MCU;Open+to+Work+%7C+Egypt+%7C+Remote" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsayed-hossny-443a24238/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsayedhossny512@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091917977)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/elsayedhossny909)
 [![Profile Views](https://komarev.com/ghpvc/?username=ElsayedHossny&style=for-the-badge&color=1A73E8)](https://github.com/ElsayedHossny)
 <br/>
+
 `Frontend Development` · `Full-Stack (Growing)` · `Embedded Systems Background`
 </div>
 <br/>
@@ -16,26 +18,6 @@
 ## 👨‍💻 About Me
 
 I'm **Elsayed Hossny**, a **Frontend Developer** who builds fast, clean, and user-focused web interfaces with **React.js** and **Next.js** — and I bring something most frontend developers don't: a **Communications & Computer Engineering** background with hands-on **embedded systems** experience (AVR microcontrollers, UART/SPI/I2C), plus growing **backend** skills in **Node.js** and **Express.js**.
-
-That mix means I don't just build UI — I understand what's happening underneath it: how data moves, how systems talk to each other, and how to reason about a product end-to-end.
-
-- 🎯 **Primary focus:** Frontend Development — React.js, Next.js, TypeScript <br/>
-- 🔧 **Actively building:** Full-stack skills with Node.js, Express.js, and REST APIs <br/>
-- 🎓 **Education:** B.Sc. Communications & Computer Engineering, Banha Faculty of Engineering <br/>
-- 💼 **Status:** Open to Frontend / Full-Stack opportunities <br/>
-
-<br/>
-
-💼 **Role:** Frontend Developer <br/>
-⚛️ **Core Stack:** React.js · Next.js · TypeScript · JavaScript <br/>
-🎨 **UI:** Tailwind CSS · Bootstrap · Responsive Design <br/>
-🔗 **APIs:** REST APIs · Axios · React Query <br/>
-🔐 **Auth:** NextAuth · JWT <br/>
-📚 **Currently Learning:** Backend Development Node.js <br/>
-<br/>
-
-
-
 
 
 ## 🛠 Skills & Projects
