@@ -35,6 +35,7 @@
   </colgroup>
   <tr>
     <td>   
+ `Frontend`
     
   **Frontend**</br>
     ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
