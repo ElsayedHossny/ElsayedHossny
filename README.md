@@ -39,16 +39,39 @@ That mix means I don't just build UI — I understand what's happening underneat
 
 
 ## 🛠 Skills & Projects
+
 <table>
-    <tr>
-  <td width="100%" valign="top">
-      
-**Project**</br>
+
+<tr>
+    <td width="50%" >a</td>
+    <td width="50%" >c</td>
+</tr>
+<tr>
+    <td width="100%" >a</td>
+</tr>
+
+<tr>
+    <td width="50%" >a</td>
+    <td width="50%" >c</td>
+</tr>
+
+
+
+
     
+    <tr>
+<td width="100%" valign="top">
+      
+**Project**</br>   
   [![Soukly](https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)  [![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)  [![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
-    </td>
+  </td>
   </tr>
-  <tr>
+  
+</table>
+
+
+
+<tr>
   <td width="50%" valign="top">  
     
   **Frontend**</br>
@@ -106,10 +129,6 @@ That mix means I don't just build UI — I understand what's happening underneat
     ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
     </td>
     </tr>
-</table>
-
-
-
 
 
 
