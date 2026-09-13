@@ -81,7 +81,7 @@
   </tr>  
 </table>
 
-`Embedded Systems`
+**`Embedded Systems`**
 <div>
   
   ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -90,14 +90,6 @@
     ![UART/SPI/I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-0078D4?style=flat-square&logoColor=white)
     ![Proteus](https://img.shields.io/badge/Proteus_Simulation-1BA0E0?style=flat-square&logoColor=white)
 </div>
-
-
-
-
-
-
-
-
 <div align="center">
 
 ## 🎓 Education & Training
