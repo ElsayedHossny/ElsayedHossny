@@ -12,9 +12,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ElsayedHossny&style=for-the-badge&color=1A73E8)](https://github.com/ElsayedHossny)
 <br/>
 
-**`Frontend Engineer`** · `Full-Stack Engineer(Growing)` · `Embedded Systems Software Engineer` <br/>· `Computer Engineering graduated`
+**`Frontend Engineer`** · `Full-Stack Engineer(Growing)` · `Embedded Systems Software Engineer` <br/> `Computer Engineering graduated`
 
-· `Graduated From Banha Faculty of Engineering`
+ `Graduated From Banha Faculty of Engineering`
 
 <hr/>
 
