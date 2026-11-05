@@ -14,7 +14,7 @@
 
 **`Software Engineer`** · **`Full-Stack Engineer Reactjs-Nextjs/Nodejs`** ` Backend Developer` . ` Frontend Developer `<br/>
  
- `Graduated From Banha Faculty of Engineering "Computer Engineering graduated "`
+ `Graduated From Banha Faculty of Engineering **Computer Engineering graduated**``
 
 <hr/>
 
