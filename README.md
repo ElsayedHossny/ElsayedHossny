@@ -21,6 +21,27 @@
 
 **`Project`**
 
+<p align="center">
+  <a href="https://github.com/ElsayedHossny/Candor-App">
+    <img src="https://img.shields.io/badge/💬_Candor_App-Back--End-2563EB?style=for-the-badge&labelColor=DBEAFE" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace">
+    <img src="https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-0891B2?style=for-the-badge&labelColor=CFFAFE" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ElsayedHossny/Full_CRM-RealState_Docker">
+    <img src="https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-7C3AED?style=for-the-badge&labelColor=EDE9FE" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ElsayedHossny/FreshCart-Ecommerce">
+    <img src="https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-059669?style=for-the-badge&labelColor=D1FAE5" />
+  </a>
+</p>
+
+<hr/>
 
 [![Candor App](https://img.shields.io/badge/💬_Candor_App-Back--End-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Candor-App)
 
