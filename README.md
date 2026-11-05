@@ -23,6 +23,28 @@
 
 <p align="center">
   <a href="https://github.com/ElsayedHossny/Candor-App">
+    <img src="https://img.shields.io/badge/CANDOR_APP-BACK--END-2563EB?style=for-the-badge&labelColor=E8F0FE" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace">
+    <img src="https://img.shields.io/badge/SOUKLY-BILINGUAL_E--COMMERCE-0F766E?style=for-the-badge&labelColor=CCFBF1" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ElsayedHossny/Full_CRM-RealState_Docker">
+    <img src="https://img.shields.io/badge/REAL_ESTATE_CRM-FULL--STACK-6D28D9?style=for-the-badge&labelColor=EDE9FE" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ElsayedHossny/FreshCart-Ecommerce">
+    <img src="https://img.shields.io/badge/FRESH_CART-E--COMMERCE-B45309?style=for-the-badge&labelColor=FEF3C7" />
+  </a>
+</p>
+
+<hr/>
+
+<p align="center">
+  <a href="https://github.com/ElsayedHossny/Candor-App">
     <img src="https://img.shields.io/badge/💬_Candor_App-Back--End-2563EB?style=for-the-badge&labelColor=DBEAFE" />
   </a>
 </p>
