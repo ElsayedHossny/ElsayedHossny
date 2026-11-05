@@ -45,39 +45,6 @@
 <hr/>
 
 
-
-
-<p align="center">
-  <a href="https://github.com/ElsayedHossny/Candor-App">
-    <img src="https://img.shields.io/badge/CANDOR_APP-BACK--END-2563EB?style=for-the-badge&labelColor=E8F0FE" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace">
-    <img src="https://img.shields.io/badge/SOUKLY-BILINGUAL_E--COMMERCE-0F766E?style=for-the-badge&labelColor=CCFBF1" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ElsayedHossny/Full_CRM-RealState_Docker">
-    <img src="https://img.shields.io/badge/REAL_ESTATE_CRM-FULL--STACK-6D28D9?style=for-the-badge&labelColor=EDE9FE" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ElsayedHossny/FreshCart-Ecommerce">
-    <img src="https://img.shields.io/badge/FRESH_CART-E--COMMERCE-B45309?style=for-the-badge&labelColor=FEF3C7" />
-  </a>
-</p>
-
-<hr/>
-
-<p align="center">
-  <a href="https://github.com/ElsayedHossny/Candor-App">
-    <img src="https://img.shields.io/badge/💬_Candor_App-Back--End-2563EB?style=for-the-badge&labelColor=DBEAFE" />
-  </a>
-</p>
-
-  [![Soukly](https://img.shields.io/badge/🛒_Soukly-Bilingual_E--Commerce-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Real Estate CRM](https://img.shields.io/badge/🏢_Real_Estate_CRM-Full--Stack-000000?style=for-the-badge)](https://github.com/ElsayedHossny/Full_CRM-RealState_Docker)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Fresh Cart](https://img.shields.io/badge/🛍️_Fresh_Cart-E--Commerce-000000?style=for-the-badge)](https://github.com/ElsayedHossny/FreshCart-Ecommerce)
-<hr/>
-
 **`Technical Skills`**
 
 <table width="100%" >
