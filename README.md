@@ -1,7 +1,5 @@
 <div align="center">
 
-![Uploading image.png…]()
-
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=1100&lines=Software+Engineer+%7C+Full+Stack+Engineer;Front-End+Developer+%7C+React.js+%7C+Next.js;Back-End+Developer+%7C+Node.js+%7C+Express.js;SQL+Database+%7C+MySQL+%7C+Sequelize+ORM;NoSQL+Database+%7C+MongoDB+%7C+Mongoose+ODM+%7C+Redis;Open+to+Work+%7C+Worldwide+%7C+Remote+%7C+On-site" alt="Typing SVG" />
 
