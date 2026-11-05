@@ -12,8 +12,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ElsayedHossny&style=for-the-badge&color=1A73E8)](https://github.com/ElsayedHossny)
 <br/>
 
-**`Full-Stack Engineer Reactjs/nodejs`** · ` Backend Developer` ` Frontend Developer · `Embedded Systems Software Engineer` <br/> `Computer Engineering graduated`
-
+**`Full-Stack Engineer Reactjs/nodejs`** · ` Backend Developer` ` Frontend Developer ` · `Embedded Systems Software Engineer` .`Computer Engineering graduated`
  `Graduated From Banha Faculty of Engineering`
 
 <hr/>
