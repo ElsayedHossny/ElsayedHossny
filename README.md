@@ -21,6 +21,139 @@
 
 **`Project`**
 
+
+<table>
+  <tr>
+    <!-- Candor App -->
+    <td width="50%" valign="top">
+      <h3 align="center">💬 Candor App</h3>
+      <p align="center">
+        <a href="https://github.com/ElsayedHossny/Candor-App">
+          <img src="https://img.shields.io/badge/BACK--END-2563EB?style=for-the-badge&labelColor=DBEAFE" />
+        </a>
+      </p>
+      <p>
+        A private messaging platform with secure authentication,
+        OTP email verification, Google OAuth, password recovery,
+        and message management. Built with a focus on security,
+        validation, and scalable backend architecture.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multer-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElsayedHossny/Candor-App">
+          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+
+    <!-- Soukly -->
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Soukly</h3>
+      <p align="center">
+        <a href="https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace">
+          <img src="https://img.shields.io/badge/FULL--STACK-0F766E?style=for-the-badge&labelColor=CCFBF1" />
+        </a>
+      </p>
+      <p>
+        A bilingual e-commerce marketplace supporting Arabic and
+        English, with RTL/LTR layouts, dark and light themes,
+        authentication, and a responsive user interface.
+        Built with modern Next.js and React technologies.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+        <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/next--intl-2563EB?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElsayedHossny/Soukly-Bilingual-E-Commerce-Marketplace">
+          <img src="https://img.shields.io/badge/View_Project-0F766E?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Real Estate CRM -->
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 Real Estate CRM</h3>
+      <p align="center">
+        <a href="https://github.com/ElsayedHossny/Full_CRM-RealState_Docker">
+          <img src="https://img.shields.io/badge/FULL--STACK-6D28D9?style=for-the-badge&labelColor=EDE9FE" />
+        </a>
+      </p>
+      <p>
+        A full-stack real estate CRM application developed as an
+        NTI graduation project. Led a team of five developers to
+        build a system with a modern frontend, RESTful backend,
+        authentication, and containerized deployment.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElsayedHossny/Full_CRM-RealState_Docker">
+          <img src="https://img.shields.io/badge/View_Project-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+
+    <!-- FreshCart -->
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ FreshCart</h3>
+      <p align="center">
+        <a href="https://github.com/ElsayedHossny/FreshCart-Ecommerce">
+          <img src="https://img.shields.io/badge/FRONT--END-047857?style=for-the-badge&labelColor=D1FAE5" />
+        </a>
+      </p>
+      <p>
+        A modern e-commerce frontend application built with React.
+        Focused on state management, API integration, data fetching,
+        and authentication using JWT, with reusable components
+        and a structured frontend architecture.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElsayedHossny/FreshCart-Ecommerce">
+          <img src="https://img.shields.io/badge/View_Project-047857?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+
 <p align="center">
   <a href="https://github.com/ElsayedHossny/Candor-App">
     <img src="https://img.shields.io/badge/CANDOR_APP-BACK--END-2563EB?style=for-the-badge&labelColor=E8F0FE" />
